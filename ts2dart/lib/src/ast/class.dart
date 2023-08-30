@@ -548,7 +548,7 @@ class InteropClass extends InteropNamedDeclaration with WithInteropTypeParams {
   @override
   void parse(Map<String, dynamic> map) {
     super.parse(map);
-    final struct = map as MetadataStruct;
+    final struct = MetadataStruct(map);
 
     if (struct.isOk()) {
       inheritance.addAll(struct.heritage.map((h) {

@@ -23,7 +23,7 @@ class InteropRecord with InteropType {
   Reference ref({SymbolSwap? symbolSwap, bool nullable = false}) {
     return RecordType((b) {
       for (final param in params) {
-        b.namedParameters[param.name] = param.ref.ref();
+        b.namedFieldTypes[param.name] = param.ref.ref();
       }
     });
   }

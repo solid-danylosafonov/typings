@@ -1,13 +1,13 @@
 import '../ast/types/static.dart';
 import '../common.dart';
 
-inline class MetadataCtor {
+class MetadataCtor {
   final Map<String, dynamic> map;
 
   MetadataCtor(this.map);
 }
 
-inline class MetadataIndex {
+class MetadataIndex {
   final Map<String, dynamic> map;
 
   MetadataIndex(this.map);
@@ -19,13 +19,13 @@ inline class MetadataIndex {
   bool get isReadonly => map.prop('isReadonly');
 }
 
-inline class MetadataCall {
+class MetadataCall {
   final Map<String, dynamic> map;
 
   MetadataCall(this.map);
 }
 
-inline class MetadataStruct {
+class MetadataStruct {
   final Map<String, dynamic> map;
 
   MetadataStruct(this.map);
@@ -53,14 +53,19 @@ inline class MetadataStruct {
   bool get isClass => map.prop('isClass');
   int get lineNumber => map.prop('_');
 
-  Iterable<MetadataTypeRef> get heritage => (map['heritage'] as Iterable)
-      .expand((l) => (l as Iterable).map((i) => i as MetadataTypeRef));
-  Iterable<MetadataCtor> get ctors =>
-      (map['ctors'] as Iterable).map((i) => i as MetadataCtor);
-  Iterable<MetadataCall> get calls =>
-      (map['calls'] as Iterable).map((i) => i as MetadataCall);
-  Iterable<MetadataIndex> get indexes =>
-      (map['indexes'] as Iterable).map((i) => i as MetadataIndex);
+  Iterable<MetadataTypeRef> get heritage =>
+      (map['heritage'] as Iterable).expand((l) => (l as Iterable)
+          .cast<Map<String, dynamic>>()
+          .map(MetadataTypeRef.new));
+  Iterable<MetadataCtor> get ctors => (map['ctors'] as Iterable)
+      .cast<Map<String, dynamic>>()
+      .map(MetadataCtor.new);
+  Iterable<MetadataCall> get calls => (map['calls'] as Iterable)
+      .cast<Map<String, dynamic>>()
+      .map(MetadataCall.new);
+  Iterable<MetadataIndex> get indexes => (map['indexes'] as Iterable)
+      .cast<Map<String, dynamic>>()
+      .map(MetadataIndex.new);
 
   bool isNameInStaticTypes() => InteropStaticType.isMapped(name);
 
@@ -77,7 +82,7 @@ inline class MetadataStruct {
       indexes.isNotEmpty;
 }
 
-inline class MetadataTypeRef {
+class MetadataTypeRef {
   final Map<String, dynamic> map;
 
   MetadataTypeRef(this.map);
@@ -85,7 +90,7 @@ inline class MetadataTypeRef {
   String get name => map.prop('ref');
 }
 
-inline class MetadataStructMember {
+class MetadataStructMember {
   final Map<String, dynamic> map;
 
   MetadataStructMember(this.map);

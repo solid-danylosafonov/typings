@@ -26,6 +26,7 @@ const coreKinds = [
   ts.SyntaxKind.BigIntKeyword,
   ts.SyntaxKind.UnknownKeyword,
   ts.SyntaxKind.NeverKeyword,
+  ts.SyntaxKind.Identifier,
 ];
 
 interface Library {

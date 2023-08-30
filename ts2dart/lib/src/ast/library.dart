@@ -200,7 +200,8 @@ class InteropLibrary with InteropItem {
       'typedefs': List rawTypedefs,
       'enums': List rawEnums
     } = map;
-    final structs = rawStructs.map((s) => s as MetadataStruct);
+    final structs =
+        rawStructs.cast<Map<String, dynamic>>().map(MetadataStruct.new);
     final enumList = rawEnums.cast<Map<String, dynamic>>();
 
     for (final en in enumList) {
@@ -218,12 +219,12 @@ class InteropLibrary with InteropItem {
             final ret = switch (value) {
               String v when v.isEmpty => InteropConstString(name, name: name),
               String v => () {
-                final nval = num.tryParse(v);
+                  final nval = num.tryParse(v);
 
-                return (nval == null
-                    ? InteropConstString(value, name: name)
-                    : InteropConstNum(nval, name: name)) as InteropConstType;
-              }(),
+                  return (nval == null
+                      ? InteropConstString(value, name: name)
+                      : InteropConstNum(nval, name: name)) as InteropConstType;
+                }(),
               num v => InteropConstNum(v, name: name),
               _ => throw 'Unknown value type $value'
             };
@@ -640,6 +641,8 @@ class InteropLibrary with InteropItem {
       if (found != null) {
         return found;
       }
+
+      // return InteropStaticType.dyn;
 
       throw 'Couldnt find typing from name "$name". \n\nMap $map';
     }

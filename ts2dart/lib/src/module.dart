@@ -67,8 +67,8 @@ class InteropModule {
       }
 
       try {
-        final buffer = DartFormatter().format(built);
-        //final buffer = codeLib.accept(emitter).toString();
+        // final buffer = DartFormatter().format(built);
+        // final buffer = codeLib.accept(emitter).toString();
 
         logger.warning('GENERATE ${library.targetFileName}, ${library.namespace}, ${library.fileName}\n${'${library.fileName.replaceAll('.d.ts', '.${library.namespace.isEmpty ? '' : '${library.namespace}.'}d').toLowerCase()}.dart'}');
         saveSource(path: library.targetFileName, buffer: buffer);

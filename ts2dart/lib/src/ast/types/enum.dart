@@ -151,7 +151,13 @@ class InteropDynamicEnum extends InteropNamedDeclaration
     for (final inh in struct.heritage) {
       final en = switch (library.findTypeByName(inh.name)) {
         InteropDynamicEnum dyn => dyn,
-        InteropInterface iface => iface.parse().type as InteropDynamicEnum,
+        // InteropInterface iface => iface.parse().type as InteropDynamicEnum,
+        InteropInterface iface => InteropDynamicEnum(
+            library: iface.parse().type.library,
+            lineNumber: iface.parse().type.lineNumber,
+            name: iface.name,
+            source: iface.source,
+          ),
         _ => throw 'Unknown heritage ${inh.name}'
       };
 
@@ -174,7 +180,7 @@ class InteropDynamicEnum extends InteropNamedDeclaration
     super.parse(map);
 
     if (map case {'isClass': bool _}) {
-      _parseInterface(map as MetadataStruct);
+      _parseInterface(MetadataStruct(map));
       return;
     }
 

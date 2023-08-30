@@ -58,7 +58,7 @@ class ExternalInteropType extends InteropType {
       '''ExternalInteropType(kind: $kind, name: $name, package: $packagePath)''';
 }
 
-inline class ExternalInteropModule {
+class ExternalInteropModule {
   ExternalInteropModule(this.map);
 
   final Map<String, dynamic> map;
@@ -74,7 +74,7 @@ inline class ExternalInteropModule {
   }
 }
 
-inline class ExternalInteropProject {
+class ExternalInteropProject {
   ExternalInteropProject(this.map);
 
   final Map<String, dynamic> map;

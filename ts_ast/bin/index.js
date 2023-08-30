@@ -51,6 +51,7 @@ const coreKinds = [
     ts.SyntaxKind.BigIntKeyword,
     ts.SyntaxKind.UnknownKeyword,
     ts.SyntaxKind.NeverKeyword,
+    ts.SyntaxKind.Identifier,
 ];
 function extract(files) {
     let program = ts.createProgram(files, { allowJs: true });

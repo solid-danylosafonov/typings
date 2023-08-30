@@ -1,7 +1,7 @@
 import 'package:ts2dart/src/common.dart';
 import 'package:ts2dart/src/metadata/struct.dart';
 
-inline class MetadataLibrary {
+class MetadataLibrary {
   final Map<String, dynamic> map;
 
   MetadataLibrary(this.map);
@@ -9,7 +9,7 @@ inline class MetadataLibrary {
   String get name => map.prop('name');
 }
 
-inline class MetadataLibraryItems {
+class MetadataLibraryItems {
   final Map<String, dynamic> map;
 
   MetadataLibraryItems(this.map);
@@ -21,8 +21,7 @@ inline class MetadataLibraryItems {
       (map['typedefs'] as Iterable).map((i) => i as MetadataTypedef);
 }
 
-
-inline class MetadataTypedef {
+class MetadataTypedef {
   final Map<String, dynamic> map;
 
   MetadataTypedef(this.map);

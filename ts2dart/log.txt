@@ -1,0 +1,471 @@
+INFO: 2023-08-30 19:58:56.597321: Compiling through NodeJS
+INFO: 2023-08-30 19:58:56.599176: Files: 
+ - out/package/lib/lib.es5.d.ts
+ - out/package/lib/lib.es2015.core.d.ts
+ - out/package/lib/lib.es2015.collection.d.ts
+ - out/package/lib/lib.es2015.iterable.d.ts
+ - out/package/lib/lib.es2015.generator.d.ts
+ - out/package/lib/lib.es2015.promise.d.ts
+ - out/package/lib/lib.es2015.proxy.d.ts
+ - out/package/lib/lib.es2015.reflect.d.ts
+ - out/package/lib/lib.es2015.symbol.d.ts
+ - out/package/lib/lib.es2015.symbol.wellknown.d.ts
+ - out/package/lib/lib.es2016.array.include.d.ts
+ - out/package/lib/lib.es2017.object.d.ts
+ - out/package/lib/lib.es2017.sharedmemory.d.ts
+ - out/package/lib/lib.es2017.string.d.ts
+ - out/package/lib/lib.es2017.intl.d.ts
+ - out/package/lib/lib.es2017.typedarrays.d.ts
+ - out/package/lib/lib.es2018.asynciterable.d.ts
+ - out/package/lib/lib.es2018.asyncgenerator.d.ts
+ - out/package/lib/lib.es2018.promise.d.ts
+ - out/package/lib/lib.es2018.regexp.d.ts
+ - out/package/lib/lib.es2018.intl.d.ts
+ - out/package/lib/lib.es2019.array.d.ts
+ - out/package/lib/lib.es2019.object.d.ts
+ - out/package/lib/lib.es2019.string.d.ts
+ - out/package/lib/lib.es2019.symbol.d.ts
+ - out/package/lib/lib.es2019.intl.d.ts
+ - out/package/lib/lib.es2020.bigint.d.ts
+ - out/package/lib/lib.es2020.date.d.ts
+ - out/package/lib/lib.es2020.number.d.ts
+ - out/package/lib/lib.es2020.promise.d.ts
+ - out/package/lib/lib.es2020.sharedmemory.d.ts
+ - out/package/lib/lib.es2020.string.d.ts
+ - out/package/lib/lib.es2020.symbol.wellknown.d.ts
+ - out/package/lib/lib.es2020.intl.d.ts
+ - out/package/lib/lib.es2021.intl.d.ts
+ - out/package/lib/lib.es2021.promise.d.ts
+ - out/package/lib/lib.es2021.string.d.ts
+ - out/package/lib/lib.es2021.weakref.d.ts
+ - out/package/lib/lib.es2022.array.d.ts
+ - out/package/lib/lib.es2022.error.d.ts
+ - out/package/lib/lib.es2022.intl.d.ts
+ - out/package/lib/lib.es2022.object.d.ts
+ - out/package/lib/lib.es2022.regexp.d.ts
+ - out/package/lib/lib.es2022.sharedmemory.d.ts
+ - out/package/lib/lib.es2023.array.d.ts
+ - out/package/lib/lib.dom.d.ts
+ - out/package/lib/lib.webworker.importscripts.d.ts
+ - out/package/lib/lib.scripthost.d.ts
+ - out/package/./lib/typescript.d.ts
+
+
+INFO: 2023-08-30 19:58:59.534649: Done compiling
+INFO: 2023-08-30 19:59:00.084798: Listing structures in file lib.es5.d.ts namespace ""
+WARNING: 2023-08-30 19:59:00.088917: Skipping mapped struct "Function"
+WARNING: 2023-08-30 19:59:00.088981: Skipping mapped struct "String"
+WARNING: 2023-08-30 19:59:00.089091: Skipping mapped struct "Date"
+WARNING: 2023-08-30 19:59:00.089346: Skipping mapped struct "ArrayBuffer"
+WARNING: 2023-08-30 19:59:00.089384: Skipping mapped struct "DataView"
+WARNING: 2023-08-30 19:59:00.089404: Skipping mapped struct "Int8Array"
+WARNING: 2023-08-30 19:59:00.089426: Skipping mapped struct "Uint8Array"
+WARNING: 2023-08-30 19:59:00.089448: Skipping mapped struct "Uint8ClampedArray"
+WARNING: 2023-08-30 19:59:00.089469: Skipping mapped struct "Int16Array"
+WARNING: 2023-08-30 19:59:00.089494: Skipping mapped struct "Uint16Array"
+WARNING: 2023-08-30 19:59:00.089593: Skipping mapped struct "Int32Array"
+WARNING: 2023-08-30 19:59:00.089675: Skipping mapped struct "Uint32Array"
+WARNING: 2023-08-30 19:59:00.089703: Skipping mapped struct "Float32Array"
+WARNING: 2023-08-30 19:59:00.089725: Skipping mapped struct "Float64Array"
+INFO: 2023-08-30 19:59:00.093228: Listing structures in file lib.es2015.core.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.093297: Listing structures in file lib.es2015.collection.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.093380: Listing structures in file lib.es2015.iterable.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.093731: Listing structures in file lib.es2015.generator.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.093778: Listing structures in file lib.es2015.promise.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.093796: Listing structures in file lib.es2015.proxy.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.093826: Listing structures in file lib.es2015.reflect.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.093845: Listing structures in file lib.es2015.symbol.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.093859: Listing structures in file lib.es2015.symbol.wellknown.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.093897: Listing structures in file lib.es2016.array.include.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.093911: Listing structures in file lib.es2017.object.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.093949: Listing structures in file lib.es2017.sharedmemory.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.093976: Listing structures in file lib.es2017.string.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.093990: Listing structures in file lib.es2017.intl.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.094004: Listing structures in file lib.es2017.typedarrays.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.094019: Listing structures in file lib.es2018.asynciterable.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.094047: Listing structures in file lib.es2018.asyncgenerator.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.094081: Listing structures in file lib.es2018.promise.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.094094: Listing structures in file lib.es2018.regexp.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.094119: Listing structures in file lib.es2018.intl.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.094133: Listing structures in file lib.es2019.array.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.094170: Listing structures in file lib.es2019.object.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.094191: Listing structures in file lib.es2019.string.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.094203: Listing structures in file lib.es2019.symbol.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.094216: Listing structures in file lib.es2019.intl.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.094230: Listing structures in file lib.es2020.bigint.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.094277: Listing structures in file lib.es2020.date.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.094290: Listing structures in file lib.es2020.number.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.094304: Listing structures in file lib.es2020.promise.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.094343: Listing structures in file lib.es2020.sharedmemory.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.094361: Listing structures in file lib.es2020.string.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.094374: Listing structures in file lib.es2020.symbol.wellknown.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.094389: Listing structures in file lib.es2020.intl.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.094402: Listing structures in file lib.es2021.intl.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.094456: Listing structures in file lib.es2021.promise.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.094487: Listing structures in file lib.es2021.string.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.094500: Listing structures in file lib.es2021.weakref.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.094530: Listing structures in file lib.es2022.array.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.094541: Listing structures in file lib.es2022.error.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.094557: Listing structures in file lib.es2022.intl.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.094567: Listing structures in file lib.es2022.object.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.094577: Listing structures in file lib.es2022.regexp.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.094599: Listing structures in file lib.es2022.sharedmemory.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.094628: Listing structures in file lib.es2023.array.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.094639: Listing structures in file lib.dom.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.101597: Listing structures in file lib.webworker.importscripts.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.101621: Listing structures in file lib.scripthost.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.101660: Listing structures in file typescript.d.ts namespace ""
+INFO: 2023-08-30 19:59:00.117247: Parsing structures: lib.es5.d.ts
+INFO: 2023-08-30 19:59:00.167528: Parsing structures: lib.es5.d.ts
+INFO: 2023-08-30 19:59:00.172376: Parsing structures: lib.es2015.core.d.ts
+INFO: 2023-08-30 19:59:00.172515: Parsing structures: lib.es2015.collection.d.ts
+INFO: 2023-08-30 19:59:00.173986: Parsing structures: lib.es2015.iterable.d.ts
+INFO: 2023-08-30 19:59:00.174981: Parsing structures: lib.es2015.generator.d.ts
+INFO: 2023-08-30 19:59:00.175346: Parsing structures: lib.es2015.promise.d.ts
+INFO: 2023-08-30 19:59:00.175393: Parsing structures: lib.es2015.proxy.d.ts
+INFO: 2023-08-30 19:59:00.175897: Parsing structures: lib.es2015.reflect.d.ts
+INFO: 2023-08-30 19:59:00.175923: Parsing structures: lib.es2015.reflect.d.ts
+INFO: 2023-08-30 19:59:00.176496: Parsing structures: lib.es2015.symbol.d.ts
+INFO: 2023-08-30 19:59:00.176546: Parsing structures: lib.es2015.symbol.wellknown.d.ts
+INFO: 2023-08-30 19:59:00.176764: Parsing structures: lib.es2016.array.include.d.ts
+INFO: 2023-08-30 19:59:00.176788: Parsing structures: lib.es2017.object.d.ts
+INFO: 2023-08-30 19:59:00.176830: Parsing structures: lib.es2017.sharedmemory.d.ts
+INFO: 2023-08-30 19:59:00.178418: Parsing structures: lib.es2017.string.d.ts
+INFO: 2023-08-30 19:59:00.178451: Parsing structures: lib.es2017.intl.d.ts
+INFO: 2023-08-30 19:59:00.178472: Parsing structures: lib.es2017.typedarrays.d.ts
+INFO: 2023-08-30 19:59:00.178494: Parsing structures: lib.es2018.asynciterable.d.ts
+INFO: 2023-08-30 19:59:00.178726: Parsing structures: lib.es2018.asyncgenerator.d.ts
+INFO: 2023-08-30 19:59:00.179085: Parsing structures: lib.es2018.promise.d.ts
+INFO: 2023-08-30 19:59:00.179111: Parsing structures: lib.es2018.regexp.d.ts
+INFO: 2023-08-30 19:59:00.179191: Parsing structures: lib.es2018.intl.d.ts
+INFO: 2023-08-30 19:59:00.179235: Parsing structures: lib.es2019.array.d.ts
+INFO: 2023-08-30 19:59:00.180203: Parsing structures: lib.es2019.object.d.ts
+INFO: 2023-08-30 19:59:00.180248: Parsing structures: lib.es2019.string.d.ts
+INFO: 2023-08-30 19:59:00.180275: Parsing structures: lib.es2019.symbol.d.ts
+INFO: 2023-08-30 19:59:00.180297: Parsing structures: lib.es2019.intl.d.ts
+INFO: 2023-08-30 19:59:00.180321: Parsing structures: lib.es2020.bigint.d.ts
+INFO: 2023-08-30 19:59:00.188511: Parsing structures: lib.es2020.date.d.ts
+INFO: 2023-08-30 19:59:00.188582: Parsing structures: lib.es2020.number.d.ts
+INFO: 2023-08-30 19:59:00.188606: Parsing structures: lib.es2020.promise.d.ts
+INFO: 2023-08-30 19:59:00.188711: Parsing structures: lib.es2020.sharedmemory.d.ts
+INFO: 2023-08-30 19:59:00.188733: Parsing structures: lib.es2020.string.d.ts
+INFO: 2023-08-30 19:59:00.188753: Parsing structures: lib.es2020.symbol.wellknown.d.ts
+INFO: 2023-08-30 19:59:00.188771: Parsing structures: lib.es2020.intl.d.ts
+INFO: 2023-08-30 19:59:00.188789: Parsing structures: lib.es2021.intl.d.ts
+INFO: 2023-08-30 19:59:00.188807: Parsing structures: lib.es2021.promise.d.ts
+INFO: 2023-08-30 19:59:00.189198: Parsing structures: lib.es2021.string.d.ts
+INFO: 2023-08-30 19:59:00.189276: Parsing structures: lib.es2021.weakref.d.ts
+INFO: 2023-08-30 19:59:00.189793: Parsing structures: lib.es2022.array.d.ts
+INFO: 2023-08-30 19:59:00.189824: Parsing structures: lib.es2022.error.d.ts
+INFO: 2023-08-30 19:59:00.189876: Parsing structures: lib.es2022.intl.d.ts
+INFO: 2023-08-30 19:59:00.189901: Parsing structures: lib.es2022.object.d.ts
+INFO: 2023-08-30 19:59:00.189922: Parsing structures: lib.es2022.regexp.d.ts
+INFO: 2023-08-30 19:59:00.190112: Parsing structures: lib.es2022.sharedmemory.d.ts
+INFO: 2023-08-30 19:59:00.190375: Parsing structures: lib.es2023.array.d.ts
+INFO: 2023-08-30 19:59:00.190408: Parsing structures: lib.dom.d.ts
+INFO: 2023-08-30 19:59:00.490801: Parsing structures: lib.dom.d.ts
+INFO: 2023-08-30 19:59:00.491040: Parsing structures: lib.dom.d.ts
+INFO: 2023-08-30 19:59:00.492014: Parsing structures: lib.webworker.importscripts.d.ts
+INFO: 2023-08-30 19:59:00.492075: Parsing structures: lib.scripthost.d.ts
+INFO: 2023-08-30 19:59:00.493087: Parsing structures: typescript.d.ts
+INFO: 2023-08-30 19:59:00.493121: Parsing structures: typescript.d.ts
+INFO: 2023-08-30 19:59:00.576221: Parsing structures: typescript.d.ts
+INFO: 2023-08-30 19:59:00.577259: Parsing structures: typescript.d.ts
+INFO: 2023-08-30 19:59:00.577365: Configure: lib.es5.d.ts
+WARNING: 2023-08-30 19:59:00.579229: Skipping list value of operator. Holder InteropOperator(operator: InteropOperatorType.readonly). LineNumber: 108, operator: InteropOperatorType.keyOf
+WARNING: 2023-08-30 19:59:00.579364: Skipping list value of operator. Holder InteropStaticType.list. LineNumber: 98, operator: InteropOperatorType.keyOf
+INFO: 2023-08-30 19:59:00.583186: Skipping declared var Function because type isnt class: InteropStaticType.function
+INFO: 2023-08-30 19:59:00.583210: Skipping declared var String because type isnt class: InteropStaticType.string
+INFO: 2023-08-30 19:59:00.583423: Skipping declared var Date because type isnt class: InteropStaticType.date
+INFO: 2023-08-30 19:59:00.583708: Skipping declared var ArrayBuffer because type isnt class: InteropStaticType.byteBuffer
+INFO: 2023-08-30 19:59:00.583719: Skipping declared var DataView because type isnt class: InteropStaticType.byteData
+INFO: 2023-08-30 19:59:00.583727: Skipping declared var Int8Array because type isnt class: InteropStaticType.int8List
+INFO: 2023-08-30 19:59:00.583736: Skipping declared var Uint8Array because type isnt class: InteropStaticType.uInt8List
+INFO: 2023-08-30 19:59:00.583744: Skipping declared var Uint8ClampedArray because type isnt class: InteropStaticType.uInt8ClampedList
+INFO: 2023-08-30 19:59:00.583753: Skipping declared var Int16Array because type isnt class: InteropStaticType.int16List
+INFO: 2023-08-30 19:59:00.583761: Skipping declared var Uint16Array because type isnt class: InteropStaticType.uInt16List
+INFO: 2023-08-30 19:59:00.583769: Skipping declared var Int32Array because type isnt class: InteropStaticType.int32List
+INFO: 2023-08-30 19:59:00.583778: Skipping declared var Uint32Array because type isnt class: InteropStaticType.uInt32List
+INFO: 2023-08-30 19:59:00.583786: Skipping declared var Float32Array because type isnt class: InteropStaticType.float32List
+INFO: 2023-08-30 19:59:00.583795: Skipping declared var Float64Array because type isnt class: InteropStaticType.float64List
+INFO: 2023-08-30 19:59:00.583812: Configure: lib.es5.d.ts
+INFO: 2023-08-30 19:59:00.585302: Configure: lib.es2015.core.d.ts
+INFO: 2023-08-30 19:59:00.585330: Configure: lib.es2015.collection.d.ts
+INFO: 2023-08-30 19:59:00.585419: Configure: lib.es2015.iterable.d.ts
+INFO: 2023-08-30 19:59:00.585962: Configure: lib.es2015.generator.d.ts
+INFO: 2023-08-30 19:59:00.585990: Configure: lib.es2015.promise.d.ts
+INFO: 2023-08-30 19:59:00.586092: Configure: lib.es2015.proxy.d.ts
+INFO: 2023-08-30 19:59:00.586189: Configure: lib.es2015.reflect.d.ts
+INFO: 2023-08-30 19:59:00.586202: Configure: lib.es2015.reflect.d.ts
+INFO: 2023-08-30 19:59:00.586219: Configure: lib.es2015.symbol.d.ts
+INFO: 2023-08-30 19:59:00.586266: Configure: lib.es2015.symbol.wellknown.d.ts
+INFO: 2023-08-30 19:59:00.586280: Configure: lib.es2016.array.include.d.ts
+INFO: 2023-08-30 19:59:00.586290: Configure: lib.es2017.object.d.ts
+INFO: 2023-08-30 19:59:00.586300: Configure: lib.es2017.sharedmemory.d.ts
+INFO: 2023-08-30 19:59:00.586573: Configure: lib.es2017.string.d.ts
+INFO: 2023-08-30 19:59:00.586587: Configure: lib.es2017.intl.d.ts
+INFO: 2023-08-30 19:59:00.586597: Configure: lib.es2017.typedarrays.d.ts
+INFO: 2023-08-30 19:59:00.586607: Configure: lib.es2018.asynciterable.d.ts
+INFO: 2023-08-30 19:59:00.586620: Configure: lib.es2018.asyncgenerator.d.ts
+INFO: 2023-08-30 19:59:00.586634: Configure: lib.es2018.promise.d.ts
+INFO: 2023-08-30 19:59:00.586644: Configure: lib.es2018.regexp.d.ts
+INFO: 2023-08-30 19:59:00.586654: Configure: lib.es2018.intl.d.ts
+INFO: 2023-08-30 19:59:00.586664: Configure: lib.es2019.array.d.ts
+INFO: 2023-08-30 19:59:00.586675: Configure: lib.es2019.object.d.ts
+INFO: 2023-08-30 19:59:00.586684: Configure: lib.es2019.string.d.ts
+INFO: 2023-08-30 19:59:00.586693: Configure: lib.es2019.symbol.d.ts
+INFO: 2023-08-30 19:59:00.586702: Configure: lib.es2019.intl.d.ts
+INFO: 2023-08-30 19:59:00.586712: Configure: lib.es2020.bigint.d.ts
+INFO: 2023-08-30 19:59:00.586899: Configure: lib.es2020.date.d.ts
+INFO: 2023-08-30 19:59:00.586912: Configure: lib.es2020.number.d.ts
+INFO: 2023-08-30 19:59:00.586922: Configure: lib.es2020.promise.d.ts
+INFO: 2023-08-30 19:59:00.586941: Configure: lib.es2020.sharedmemory.d.ts
+INFO: 2023-08-30 19:59:00.586950: Configure: lib.es2020.string.d.ts
+INFO: 2023-08-30 19:59:00.586959: Configure: lib.es2020.symbol.wellknown.d.ts
+INFO: 2023-08-30 19:59:00.586969: Configure: lib.es2020.intl.d.ts
+INFO: 2023-08-30 19:59:00.586978: Configure: lib.es2021.intl.d.ts
+INFO: 2023-08-30 19:59:00.586988: Configure: lib.es2021.promise.d.ts
+INFO: 2023-08-30 19:59:00.587015: Configure: lib.es2021.string.d.ts
+INFO: 2023-08-30 19:59:00.587025: Configure: lib.es2021.weakref.d.ts
+INFO: 2023-08-30 19:59:00.587057: Configure: lib.es2022.array.d.ts
+INFO: 2023-08-30 19:59:00.587067: Configure: lib.es2022.error.d.ts
+INFO: 2023-08-30 19:59:00.587077: Configure: lib.es2022.intl.d.ts
+INFO: 2023-08-30 19:59:00.587088: Configure: lib.es2022.object.d.ts
+INFO: 2023-08-30 19:59:00.587097: Configure: lib.es2022.regexp.d.ts
+INFO: 2023-08-30 19:59:00.587108: Configure: lib.es2022.sharedmemory.d.ts
+INFO: 2023-08-30 19:59:00.587138: Configure: lib.es2023.array.d.ts
+INFO: 2023-08-30 19:59:00.587149: Configure: lib.dom.d.ts
+INFO: 2023-08-30 19:59:00.626229: Skipping declared var NodeFilter because type isnt class: InteropTypedef#980970705(name: NodeFilter)
+INFO: 2023-08-30 19:59:00.628733: Skipping declared var DOMStringMap because type isnt class: InteropStaticType.obj
+INFO: 2023-08-30 19:59:00.650167: Configure: lib.dom.d.ts
+INFO: 2023-08-30 19:59:00.650463: Configure: lib.dom.d.ts
+INFO: 2023-08-30 19:59:00.650688: Configure: lib.webworker.importscripts.d.ts
+INFO: 2023-08-30 19:59:00.650708: Configure: lib.scripthost.d.ts
+INFO: 2023-08-30 19:59:00.650884: Configure: typescript.d.ts
+INFO: 2023-08-30 19:59:00.650906: Configure: typescript.d.ts
+INFO: 2023-08-30 19:59:00.662722: Configure: typescript.d.ts
+INFO: 2023-08-30 19:59:00.662790: Configure: typescript.d.ts
+INFO: 2023-08-30 19:59:00.662811: Cache: lib.es5.d.ts
+INFO: 2023-08-30 19:59:00.663714: Cache: lib.es5.d.ts
+INFO: 2023-08-30 19:59:00.663782: Cache: lib.es2015.core.d.ts
+INFO: 2023-08-30 19:59:00.663793: Cache: lib.es2015.collection.d.ts
+INFO: 2023-08-30 19:59:00.663818: Cache: lib.es2015.iterable.d.ts
+INFO: 2023-08-30 19:59:00.663833: Cache: lib.es2015.generator.d.ts
+INFO: 2023-08-30 19:59:00.663843: Cache: lib.es2015.promise.d.ts
+INFO: 2023-08-30 19:59:00.663851: Cache: lib.es2015.proxy.d.ts
+INFO: 2023-08-30 19:59:00.663862: Cache: lib.es2015.reflect.d.ts
+INFO: 2023-08-30 19:59:00.663870: Cache: lib.es2015.reflect.d.ts
+INFO: 2023-08-30 19:59:00.663878: Cache: lib.es2015.symbol.d.ts
+INFO: 2023-08-30 19:59:00.663887: Cache: lib.es2015.symbol.wellknown.d.ts
+INFO: 2023-08-30 19:59:00.663895: Cache: lib.es2016.array.include.d.ts
+INFO: 2023-08-30 19:59:00.663907: Cache: lib.es2017.object.d.ts
+INFO: 2023-08-30 19:59:00.663915: Cache: lib.es2017.sharedmemory.d.ts
+INFO: 2023-08-30 19:59:00.663930: Cache: lib.es2017.string.d.ts
+INFO: 2023-08-30 19:59:00.663939: Cache: lib.es2017.intl.d.ts
+INFO: 2023-08-30 19:59:00.663947: Cache: lib.es2017.typedarrays.d.ts
+INFO: 2023-08-30 19:59:00.663955: Cache: lib.es2018.asynciterable.d.ts
+INFO: 2023-08-30 19:59:00.663964: Cache: lib.es2018.asyncgenerator.d.ts
+INFO: 2023-08-30 19:59:00.663974: Cache: lib.es2018.promise.d.ts
+INFO: 2023-08-30 19:59:00.663982: Cache: lib.es2018.regexp.d.ts
+INFO: 2023-08-30 19:59:00.663990: Cache: lib.es2018.intl.d.ts
+INFO: 2023-08-30 19:59:00.663998: Cache: lib.es2019.array.d.ts
+INFO: 2023-08-30 19:59:00.664015: Cache: lib.es2019.object.d.ts
+INFO: 2023-08-30 19:59:00.664024: Cache: lib.es2019.string.d.ts
+INFO: 2023-08-30 19:59:00.664032: Cache: lib.es2019.symbol.d.ts
+INFO: 2023-08-30 19:59:00.664040: Cache: lib.es2019.intl.d.ts
+INFO: 2023-08-30 19:59:00.664048: Cache: lib.es2020.bigint.d.ts
+INFO: 2023-08-30 19:59:00.664070: Cache: lib.es2020.date.d.ts
+INFO: 2023-08-30 19:59:00.664078: Cache: lib.es2020.number.d.ts
+INFO: 2023-08-30 19:59:00.664086: Cache: lib.es2020.promise.d.ts
+INFO: 2023-08-30 19:59:00.664095: Cache: lib.es2020.sharedmemory.d.ts
+INFO: 2023-08-30 19:59:00.664103: Cache: lib.es2020.string.d.ts
+INFO: 2023-08-30 19:59:00.664111: Cache: lib.es2020.symbol.wellknown.d.ts
+INFO: 2023-08-30 19:59:00.664119: Cache: lib.es2020.intl.d.ts
+INFO: 2023-08-30 19:59:00.664126: Cache: lib.es2021.intl.d.ts
+INFO: 2023-08-30 19:59:00.664134: Cache: lib.es2021.promise.d.ts
+INFO: 2023-08-30 19:59:00.664146: Cache: lib.es2021.string.d.ts
+INFO: 2023-08-30 19:59:00.664155: Cache: lib.es2021.weakref.d.ts
+INFO: 2023-08-30 19:59:00.664170: Cache: lib.es2022.array.d.ts
+INFO: 2023-08-30 19:59:00.664178: Cache: lib.es2022.error.d.ts
+INFO: 2023-08-30 19:59:00.664186: Cache: lib.es2022.intl.d.ts
+INFO: 2023-08-30 19:59:00.664194: Cache: lib.es2022.object.d.ts
+INFO: 2023-08-30 19:59:00.664202: Cache: lib.es2022.regexp.d.ts
+INFO: 2023-08-30 19:59:00.664211: Cache: lib.es2022.sharedmemory.d.ts
+INFO: 2023-08-30 19:59:00.664220: Cache: lib.es2023.array.d.ts
+INFO: 2023-08-30 19:59:00.664228: Cache: lib.dom.d.ts
+INFO: 2023-08-30 19:59:00.667007: Cache: lib.dom.d.ts
+INFO: 2023-08-30 19:59:00.667030: Cache: lib.dom.d.ts
+INFO: 2023-08-30 19:59:00.667064: Cache: lib.webworker.importscripts.d.ts
+INFO: 2023-08-30 19:59:00.667073: Cache: lib.scripthost.d.ts
+INFO: 2023-08-30 19:59:00.667097: Cache: typescript.d.ts
+INFO: 2023-08-30 19:59:00.667105: Cache: typescript.d.ts
+INFO: 2023-08-30 19:59:00.667376: Cache: typescript.d.ts
+INFO: 2023-08-30 19:59:00.667390: Cache: typescript.d.ts
+INFO: 2023-08-30 19:59:01.839709: Transpile: lib.es5.d.ts
+WARNING: 2023-08-30 19:59:02.121065: GENERATE lib.es5.d.dart, , lib.es5.d.ts
+lib.es5.d.dart
+INFO: 2023-08-30 19:59:02.121827: Transpile: lib.es2015.core.d.ts
+WARNING: 2023-08-30 19:59:02.128029: GENERATE lib.es2015.core.d.dart, , lib.es2015.core.d.ts
+lib.es2015.core.d.dart
+INFO: 2023-08-30 19:59:02.128354: Transpile: lib.es2015.collection.d.ts
+WARNING: 2023-08-30 19:59:02.144526: GENERATE lib.es2015.collection.d.dart, , lib.es2015.collection.d.ts
+lib.es2015.collection.d.dart
+INFO: 2023-08-30 19:59:02.144930: Transpile: lib.es2015.iterable.d.ts
+WARNING: 2023-08-30 19:59:02.156277: GENERATE lib.es2015.iterable.d.dart, , lib.es2015.iterable.d.ts
+lib.es2015.iterable.d.dart
+INFO: 2023-08-30 19:59:02.156777: Transpile: lib.es2015.generator.d.ts
+WARNING: 2023-08-30 19:59:02.159581: GENERATE lib.es2015.generator.d.dart, , lib.es2015.generator.d.ts
+lib.es2015.generator.d.dart
+INFO: 2023-08-30 19:59:02.159933: Transpile: lib.es2015.promise.d.ts
+WARNING: 2023-08-30 19:59:02.161193: GENERATE lib.es2015.promise.d.dart, , lib.es2015.promise.d.ts
+lib.es2015.promise.d.dart
+INFO: 2023-08-30 19:59:02.161484: Transpile: lib.es2015.proxy.d.ts
+WARNING: 2023-08-30 19:59:02.167462: GENERATE lib.es2015.proxy.d.dart, , lib.es2015.proxy.d.ts
+lib.es2015.proxy.d.dart
+INFO: 2023-08-30 19:59:02.167870: Transpile: lib.es2015.reflect.d.ts
+WARNING: 2023-08-30 19:59:02.169492: GENERATE lib.es2015.reflect.d.dart, , lib.es2015.reflect.d.ts
+lib.es2015.reflect.d.dart
+INFO: 2023-08-30 19:59:02.169822: Transpile: lib.es2015.symbol.d.ts
+WARNING: 2023-08-30 19:59:02.172659: GENERATE lib.es2015.symbol.d.dart, , lib.es2015.symbol.d.ts
+lib.es2015.symbol.d.dart
+INFO: 2023-08-30 19:59:02.172940: Transpile: lib.es2015.symbol.wellknown.d.ts
+WARNING: 2023-08-30 19:59:02.174115: GENERATE lib.es2015.symbol.wellknown.d.dart, , lib.es2015.symbol.wellknown.d.ts
+lib.es2015.symbol.wellknown.d.dart
+INFO: 2023-08-30 19:59:02.174337: Transpile: lib.es2016.array.include.d.ts
+WARNING: 2023-08-30 19:59:02.174914: GENERATE lib.es2016.array.include.d.dart, , lib.es2016.array.include.d.ts
+lib.es2016.array.include.d.dart
+INFO: 2023-08-30 19:59:02.175080: Transpile: lib.es2017.object.d.ts
+WARNING: 2023-08-30 19:59:02.175722: GENERATE lib.es2017.object.d.dart, , lib.es2017.object.d.ts
+lib.es2017.object.d.dart
+INFO: 2023-08-30 19:59:02.175908: Transpile: lib.es2017.sharedmemory.d.ts
+WARNING: 2023-08-30 19:59:02.186360: GENERATE lib.es2017.sharedmemory.d.dart, , lib.es2017.sharedmemory.d.ts
+lib.es2017.sharedmemory.d.dart
+INFO: 2023-08-30 19:59:02.186715: Transpile: lib.es2017.string.d.ts
+WARNING: 2023-08-30 19:59:02.187883: GENERATE lib.es2017.string.d.dart, , lib.es2017.string.d.ts
+lib.es2017.string.d.dart
+INFO: 2023-08-30 19:59:02.188188: Transpile: lib.es2017.intl.d.ts
+WARNING: 2023-08-30 19:59:02.189052: GENERATE lib.es2017.intl.d.dart, , lib.es2017.intl.d.ts
+lib.es2017.intl.d.dart
+INFO: 2023-08-30 19:59:02.189271: Transpile: lib.es2017.typedarrays.d.ts
+WARNING: 2023-08-30 19:59:02.189997: GENERATE lib.es2017.typedarrays.d.dart, , lib.es2017.typedarrays.d.ts
+lib.es2017.typedarrays.d.dart
+INFO: 2023-08-30 19:59:02.190419: Transpile: lib.es2018.asynciterable.d.ts
+WARNING: 2023-08-30 19:59:02.193285: GENERATE lib.es2018.asynciterable.d.dart, , lib.es2018.asynciterable.d.ts
+lib.es2018.asynciterable.d.dart
+INFO: 2023-08-30 19:59:02.193535: Transpile: lib.es2018.asyncgenerator.d.ts
+WARNING: 2023-08-30 19:59:02.196271: GENERATE lib.es2018.asyncgenerator.d.dart, , lib.es2018.asyncgenerator.d.ts
+lib.es2018.asyncgenerator.d.dart
+INFO: 2023-08-30 19:59:02.196666: Transpile: lib.es2018.promise.d.ts
+WARNING: 2023-08-30 19:59:02.197546: GENERATE lib.es2018.promise.d.dart, , lib.es2018.promise.d.ts
+lib.es2018.promise.d.dart
+INFO: 2023-08-30 19:59:02.197741: Transpile: lib.es2018.regexp.d.ts
+WARNING: 2023-08-30 19:59:02.198464: GENERATE lib.es2018.regexp.d.dart, , lib.es2018.regexp.d.ts
+lib.es2018.regexp.d.dart
+INFO: 2023-08-30 19:59:02.198668: Transpile: lib.es2018.intl.d.ts
+WARNING: 2023-08-30 19:59:02.199486: GENERATE lib.es2018.intl.d.dart, , lib.es2018.intl.d.ts
+lib.es2018.intl.d.dart
+INFO: 2023-08-30 19:59:02.199759: Transpile: lib.es2019.array.d.ts
+WARNING: 2023-08-30 19:59:02.201032: GENERATE lib.es2019.array.d.dart, , lib.es2019.array.d.ts
+lib.es2019.array.d.dart
+INFO: 2023-08-30 19:59:02.201244: Transpile: lib.es2019.object.d.ts
+WARNING: 2023-08-30 19:59:02.202390: GENERATE lib.es2019.object.d.dart, , lib.es2019.object.d.ts
+lib.es2019.object.d.dart
+INFO: 2023-08-30 19:59:02.202605: Transpile: lib.es2019.string.d.ts
+WARNING: 2023-08-30 19:59:02.203156: GENERATE lib.es2019.string.d.dart, , lib.es2019.string.d.ts
+lib.es2019.string.d.dart
+INFO: 2023-08-30 19:59:02.203426: Transpile: lib.es2019.symbol.d.ts
+WARNING: 2023-08-30 19:59:02.203957: GENERATE lib.es2019.symbol.d.dart, , lib.es2019.symbol.d.ts
+lib.es2019.symbol.d.dart
+INFO: 2023-08-30 19:59:02.204174: Transpile: lib.es2019.intl.d.ts
+WARNING: 2023-08-30 19:59:02.204634: GENERATE lib.es2019.intl.d.dart, , lib.es2019.intl.d.ts
+lib.es2019.intl.d.dart
+INFO: 2023-08-30 19:59:02.204777: Transpile: lib.es2020.bigint.d.ts
+WARNING: 2023-08-30 19:59:02.246244: GENERATE lib.es2020.bigint.d.dart, , lib.es2020.bigint.d.ts
+lib.es2020.bigint.d.dart
+INFO: 2023-08-30 19:59:02.246774: Transpile: lib.es2020.date.d.ts
+WARNING: 2023-08-30 19:59:02.249121: GENERATE lib.es2020.date.d.dart, , lib.es2020.date.d.ts
+lib.es2020.date.d.dart
+INFO: 2023-08-30 19:59:02.249386: Transpile: lib.es2020.number.d.ts
+WARNING: 2023-08-30 19:59:02.250346: GENERATE lib.es2020.number.d.dart, , lib.es2020.number.d.ts
+lib.es2020.number.d.dart
+INFO: 2023-08-30 19:59:02.250585: Transpile: lib.es2020.promise.d.ts
+WARNING: 2023-08-30 19:59:02.253981: GENERATE lib.es2020.promise.d.dart, , lib.es2020.promise.d.ts
+lib.es2020.promise.d.dart
+INFO: 2023-08-30 19:59:02.254254: Transpile: lib.es2020.sharedmemory.d.ts
+WARNING: 2023-08-30 19:59:02.254946: GENERATE lib.es2020.sharedmemory.d.dart, , lib.es2020.sharedmemory.d.ts
+lib.es2020.sharedmemory.d.dart
+INFO: 2023-08-30 19:59:02.255126: Transpile: lib.es2020.string.d.ts
+WARNING: 2023-08-30 19:59:02.255568: GENERATE lib.es2020.string.d.dart, , lib.es2020.string.d.ts
+lib.es2020.string.d.dart
+INFO: 2023-08-30 19:59:02.255733: Transpile: lib.es2020.symbol.wellknown.d.ts
+WARNING: 2023-08-30 19:59:02.256282: GENERATE lib.es2020.symbol.wellknown.d.dart, , lib.es2020.symbol.wellknown.d.ts
+lib.es2020.symbol.wellknown.d.dart
+INFO: 2023-08-30 19:59:02.256471: Transpile: lib.es2020.intl.d.ts
+WARNING: 2023-08-30 19:59:02.257092: GENERATE lib.es2020.intl.d.dart, , lib.es2020.intl.d.ts
+lib.es2020.intl.d.dart
+INFO: 2023-08-30 19:59:02.257282: Transpile: lib.es2021.intl.d.ts
+WARNING: 2023-08-30 19:59:02.257783: GENERATE lib.es2021.intl.d.dart, , lib.es2021.intl.d.ts
+lib.es2021.intl.d.dart
+INFO: 2023-08-30 19:59:02.258194: Transpile: lib.es2021.promise.d.ts
+WARNING: 2023-08-30 19:59:02.261367: GENERATE lib.es2021.promise.d.dart, , lib.es2021.promise.d.ts
+lib.es2021.promise.d.dart
+INFO: 2023-08-30 19:59:02.261598: Transpile: lib.es2021.string.d.ts
+WARNING: 2023-08-30 19:59:02.262469: GENERATE lib.es2021.string.d.dart, , lib.es2021.string.d.ts
+lib.es2021.string.d.dart
+INFO: 2023-08-30 19:59:02.262669: Transpile: lib.es2021.weakref.d.ts
+WARNING: 2023-08-30 19:59:02.265493: GENERATE lib.es2021.weakref.d.dart, , lib.es2021.weakref.d.ts
+lib.es2021.weakref.d.dart
+INFO: 2023-08-30 19:59:02.265788: Transpile: lib.es2022.array.d.ts
+WARNING: 2023-08-30 19:59:02.266684: GENERATE lib.es2022.array.d.dart, , lib.es2022.array.d.ts
+lib.es2022.array.d.dart
+INFO: 2023-08-30 19:59:02.267206: Transpile: lib.es2022.error.d.ts
+WARNING: 2023-08-30 19:59:02.269459: GENERATE lib.es2022.error.d.dart, , lib.es2022.error.d.ts
+lib.es2022.error.d.dart
+INFO: 2023-08-30 19:59:02.270071: Transpile: lib.es2022.intl.d.ts
+WARNING: 2023-08-30 19:59:02.270860: GENERATE lib.es2022.intl.d.dart, , lib.es2022.intl.d.ts
+lib.es2022.intl.d.dart
+INFO: 2023-08-30 19:59:02.271034: Transpile: lib.es2022.object.d.ts
+WARNING: 2023-08-30 19:59:02.271496: GENERATE lib.es2022.object.d.dart, , lib.es2022.object.d.ts
+lib.es2022.object.d.dart
+INFO: 2023-08-30 19:59:02.271630: Transpile: lib.es2022.regexp.d.ts
+WARNING: 2023-08-30 19:59:02.272744: GENERATE lib.es2022.regexp.d.dart, , lib.es2022.regexp.d.ts
+lib.es2022.regexp.d.dart
+INFO: 2023-08-30 19:59:02.272922: Transpile: lib.es2022.sharedmemory.d.ts
+WARNING: 2023-08-30 19:59:02.275630: GENERATE lib.es2022.sharedmemory.d.dart, , lib.es2022.sharedmemory.d.ts
+lib.es2022.sharedmemory.d.dart
+INFO: 2023-08-30 19:59:02.275899: Transpile: lib.es2023.array.d.ts
+WARNING: 2023-08-30 19:59:02.276726: GENERATE lib.es2023.array.d.dart, , lib.es2023.array.d.ts
+lib.es2023.array.d.dart
+INFO: 2023-08-30 19:59:02.276922: Transpile: lib.dom.d.ts
+WARNING: 2023-08-30 19:59:03.575911: Empty enum InteropDynamicEnum#580811625(name: HTMLBodyElementEventMap)
+WARNING: 2023-08-30 19:59:03.585398: Empty enum InteropDynamicEnum#261921451(name: HTMLElementEventMap)
+WARNING: 2023-08-30 19:59:03.593988: Empty enum InteropDynamicEnum#448580113(name: HTMLFrameSetElementEventMap)
+WARNING: 2023-08-30 19:59:03.661326: Empty enum InteropDynamicEnum#761984026(name: MathMLElementEventMap)
+WARNING: 2023-08-30 19:59:03.700715: Empty enum InteropDynamicEnum#172681211(name: SVGElementEventMap)
+WARNING: 2023-08-30 19:59:03.721575: Empty enum InteropDynamicEnum#366882313(name: SVGSVGElementEventMap)
+WARNING: 2023-08-30 19:59:04.611889: GENERATE lib.dom.d.dart, , lib.dom.d.ts
+lib.dom.d.dart
+INFO: 2023-08-30 19:59:04.621690: Transpile: lib.webworker.importscripts.d.ts
+WARNING: 2023-08-30 19:59:04.623606: GENERATE lib.webworker.importscripts.d.dart, , lib.webworker.importscripts.d.ts
+lib.webworker.importscripts.d.dart
+INFO: 2023-08-30 19:59:04.623808: Transpile: lib.scripthost.d.ts
+WARNING: 2023-08-30 19:59:04.627808: GENERATE lib.scripthost.d.dart, , lib.scripthost.d.ts
+lib.scripthost.d.dart
+INFO: 2023-08-30 19:59:04.628079: Transpile: typescript.d.ts
+WARNING: 2023-08-30 19:59:04.628506: GENERATE typescript.d.dart, , typescript.d.ts
+typescript.d.dart
+INFO: 2023-08-30 19:59:04.629412: Transpile: lib.es5.d.ts
+WARNING: 2023-08-30 19:59:04.655513: GENERATE lib.es5.intl.d.dart, Intl, lib.es5.d.ts
+lib.es5.intl.d.dart
+INFO: 2023-08-30 19:59:04.656919: Transpile: lib.es2015.reflect.d.ts
+WARNING: 2023-08-30 19:59:04.659094: GENERATE lib.es2015.reflect.reflect.d.dart, Reflect, lib.es2015.reflect.d.ts
+lib.es2015.reflect.reflect.d.dart
+INFO: 2023-08-30 19:59:04.659668: Transpile: lib.dom.d.ts
+WARNING: 2023-08-30 19:59:04.660164: GENERATE lib.dom.css.d.dart, CSS, lib.dom.d.ts
+lib.dom.css.d.dart
+INFO: 2023-08-30 19:59:04.660836: Transpile: lib.dom.d.ts
+WARNING: 2023-08-30 19:59:04.664952: GENERATE lib.dom.webassembly.d.dart, WebAssembly, lib.dom.d.ts
+lib.dom.webassembly.d.dart
+INFO: 2023-08-30 19:59:04.665851: Transpile: typescript.d.ts
+SEVERE: 2023-08-30 19:59:04.705377: **ERROR typescript.d.ts** Transpile
+SEVERE: 2023-08-30 19:59:04.705416: **ERROR** occurred while transpilling lib typescript.d.ts
