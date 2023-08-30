@@ -2834,445 +2834,470 @@ external _i2.Object target574;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('Touch')
+@_i1.JS('ToggleEvent')
 external _i2.Object target575;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('TouchEvent')
+@_i1.JS('Touch')
 external _i2.Object target576;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('TouchList')
+@_i1.JS('TouchEvent')
 external _i2.Object target577;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('TrackEvent')
+@_i1.JS('TouchList')
 external _i2.Object target578;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('TransformStream')
+@_i1.JS('TrackEvent')
 external _i2.Object target579;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('TransformStreamDefaultController')
+@_i1.JS('TransformStream')
 external _i2.Object target580;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('TransitionEvent')
+@_i1.JS('TransformStreamDefaultController')
 external _i2.Object target581;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('TreeWalker')
+@_i1.JS('TransitionEvent')
 external _i2.Object target582;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('UIEvent')
+@_i1.JS('TreeWalker')
 external _i2.Object target583;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('URL')
+@_i1.JS('UIEvent')
 external _i2.Object target584;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('URLSearchParams')
+@_i1.JS('URL')
 external _i2.Object target585;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('UserActivation')
+@_i1.JS('URLSearchParams')
 external _i2.Object target586;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('VTTCue')
+@_i1.JS('UserActivation')
 external _i2.Object target587;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('VTTRegion')
+@_i1.JS('VTTCue')
 external _i2.Object target588;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('ValidityState')
+@_i1.JS('VTTRegion')
 external _i2.Object target589;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('VideoColorSpace')
+@_i1.JS('ValidityState')
 external _i2.Object target590;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('VideoDecoder')
+@_i1.JS('VideoColorSpace')
 external _i2.Object target591;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('VideoEncoder')
+@_i1.JS('VideoDecoder')
 external _i2.Object target592;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('VideoFrame')
+@_i1.JS('VideoEncoder')
 external _i2.Object target593;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('VideoPlaybackQuality')
+@_i1.JS('VideoFrame')
 external _i2.Object target594;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('VisualViewport')
+@_i1.JS('VideoPlaybackQuality')
 external _i2.Object target595;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('WakeLock')
+@_i1.JS('VisualViewport')
 external _i2.Object target596;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('WakeLockSentinel')
+@_i1.JS('WakeLock')
 external _i2.Object target597;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('WaveShaperNode')
+@_i1.JS('WakeLockSentinel')
 external _i2.Object target598;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('WebGL2RenderingContext')
+@_i1.JS('WaveShaperNode')
 external _i2.Object target599;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('WebGLActiveInfo')
+@_i1.JS('WebGL2RenderingContext')
 external _i2.Object target600;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('WebGLBuffer')
+@_i1.JS('WebGLActiveInfo')
 external _i2.Object target601;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('WebGLContextEvent')
+@_i1.JS('WebGLBuffer')
 external _i2.Object target602;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('WebGLFramebuffer')
+@_i1.JS('WebGLContextEvent')
 external _i2.Object target603;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('WebGLProgram')
+@_i1.JS('WebGLFramebuffer')
 external _i2.Object target604;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('WebGLQuery')
+@_i1.JS('WebGLProgram')
 external _i2.Object target605;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('WebGLRenderbuffer')
+@_i1.JS('WebGLQuery')
 external _i2.Object target606;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('WebGLRenderingContext')
+@_i1.JS('WebGLRenderbuffer')
 external _i2.Object target607;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('WebGLSampler')
+@_i1.JS('WebGLRenderingContext')
 external _i2.Object target608;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('WebGLShader')
+@_i1.JS('WebGLSampler')
 external _i2.Object target609;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('WebGLShaderPrecisionFormat')
+@_i1.JS('WebGLShader')
 external _i2.Object target610;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('WebGLSync')
+@_i1.JS('WebGLShaderPrecisionFormat')
 external _i2.Object target611;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('WebGLTexture')
+@_i1.JS('WebGLSync')
 external _i2.Object target612;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('WebGLTransformFeedback')
+@_i1.JS('WebGLTexture')
 external _i2.Object target613;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('WebGLUniformLocation')
+@_i1.JS('WebGLTransformFeedback')
 external _i2.Object target614;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('WebGLVertexArrayObject')
+@_i1.JS('WebGLUniformLocation')
 external _i2.Object target615;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('WebSocket')
+@_i1.JS('WebGLVertexArrayObject')
 external _i2.Object target616;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('WheelEvent')
+@_i1.JS('WebSocket')
 external _i2.Object target617;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('Window')
+@_i1.JS('WebTransport')
 external _i2.Object target618;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('Worker')
+@_i1.JS('WebTransportBidirectionalStream')
 external _i2.Object target619;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('Worklet')
+@_i1.JS('WebTransportDatagramDuplexStream')
 external _i2.Object target620;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('WritableStream')
+@_i1.JS('WebTransportError')
 external _i2.Object target621;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('WritableStreamDefaultController')
+@_i1.JS('WheelEvent')
 external _i2.Object target622;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('WritableStreamDefaultWriter')
+@_i1.JS('Window')
 external _i2.Object target623;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('XMLDocument')
+@_i1.JS('Worker')
 external _i2.Object target624;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('XMLHttpRequest')
+@_i1.JS('Worklet')
 external _i2.Object target625;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('XMLHttpRequestEventTarget')
+@_i1.JS('WritableStream')
 external _i2.Object target626;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('XMLHttpRequestUpload')
+@_i1.JS('WritableStreamDefaultController')
 external _i2.Object target627;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('XMLSerializer')
+@_i1.JS('WritableStreamDefaultWriter')
 external _i2.Object target628;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('XPathEvaluator')
+@_i1.JS('XMLDocument')
 external _i2.Object target629;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('XPathExpression')
+@_i1.JS('XMLHttpRequest')
 external _i2.Object target630;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('XPathResult')
+@_i1.JS('XMLHttpRequestEventTarget')
 external _i2.Object target631;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('XSLTProcessor')
+@_i1.JS('XMLHttpRequestUpload')
 external _i2.Object target632;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('console')
+@_i1.JS('XMLSerializer')
 external _i2.Object target633;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('Audio')
+@_i1.JS('XPathEvaluator')
 external _i2.Object target634;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('Image')
+@_i1.JS('XPathExpression')
 external _i2.Object target635;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('Option')
+@_i1.JS('XPathResult')
 external _i2.Object target636;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('clientInformation')
+@_i1.JS('XSLTProcessor')
 external _i2.Object target637;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('customElements')
+@_i1.JS('console')
 external _i2.Object target638;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('document')
+@_i1.JS('Audio')
 external _i2.Object target639;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('event')
+@_i1.JS('Image')
 external _i2.Object target640;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('external')
+@_i1.JS('Option')
 external _i2.Object target641;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('frameElement')
+@_i1.JS('clientInformation')
 external _i2.Object target642;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('history')
+@_i1.JS('customElements')
 external _i2.Object target643;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('location')
+@_i1.JS('document')
 external _i2.Object target644;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('locationbar')
+@_i1.JS('event')
 external _i2.Object target645;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('menubar')
+@_i1.JS('external')
 external _i2.Object target646;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('navigator')
+@_i1.JS('frameElement')
 external _i2.Object target647;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('personalbar')
+@_i1.JS('history')
 external _i2.Object target648;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('screen')
+@_i1.JS('location')
 external _i2.Object target649;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('scrollbars')
+@_i1.JS('locationbar')
 external _i2.Object target650;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('speechSynthesis')
+@_i1.JS('menubar')
 external _i2.Object target651;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('statusbar')
+@_i1.JS('navigator')
 external _i2.Object target652;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('toolbar')
+@_i1.JS('personalbar')
 external _i2.Object target653;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('visualViewport')
+@_i1.JS('screen')
 external _i2.Object target654;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('localStorage')
+@_i1.JS('scrollbars')
 external _i2.Object target655;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('caches')
+@_i1.JS('speechSynthesis')
 external _i2.Object target656;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('crypto')
+@_i1.JS('statusbar')
 external _i2.Object target657;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('indexedDB')
+@_i1.JS('toolbar')
 external _i2.Object target658;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('performance')
+@_i1.JS('visualViewport')
 external _i2.Object target659;
 /*
 FieldExternal: DeclaredVar
 */
-@_i1.JS('sessionStorage')
+@_i1.JS('localStorage')
 external _i2.Object target660;
 /*
 FieldExternal: DeclaredVar
 */
+@_i1.JS('caches')
+external _i2.Object target661;
+/*
+FieldExternal: DeclaredVar
+*/
+@_i1.JS('crypto')
+external _i2.Object target662;
+/*
+FieldExternal: DeclaredVar
+*/
+@_i1.JS('indexedDB')
+external _i2.Object target663;
+/*
+FieldExternal: DeclaredVar
+*/
+@_i1.JS('performance')
+external _i2.Object target664;
+/*
+FieldExternal: DeclaredVar
+*/
+@_i1.JS('sessionStorage')
+external _i2.Object target665;
+/*
+FieldExternal: DeclaredVar
+*/
 @_i1.JS('WScript')
-external _i2.Object target669;
+external _i2.Object target674;
 /*
 FieldExternal: DeclaredVar
 */
 @_i1.JS('Enumerator')
-external _i2.Object target670;
+external _i2.Object target675;
 /*
 FieldExternal: DeclaredVar
 */
 @_i1.JS('VBArray')
-external _i2.Object target671;
+external _i2.Object target676;

@@ -1,0 +1,1273 @@
+[INFO] Generating build script...
+[INFO] Generating build script completed, took 171ms
+
+[INFO] Initializing inputs
+[INFO] Reading cached asset graph...
+[INFO] Reading cached asset graph completed, took 113ms
+
+[INFO] Checking for updates since last build...
+[INFO] Checking for updates since last build completed, took 851ms
+
+[WARNING] Invalidating asset graph due to build script update!
+[INFO] Cleaning up outputs from previous builds....
+[INFO] Cleaning up outputs from previous builds. completed, took 9ms
+
+[INFO] Generating build script...
+[INFO] Generating build script completed, took 48ms
+
+[WARNING] Invalidated precompiled build script due to missing asset graph.
+[INFO] Precompiling build script......
+[INFO] Precompiling build script... completed, took 674ms
+
+[INFO] Initializing inputs
+[INFO] Building new asset graph...
+[INFO] Building new asset graph completed, took 939ms
+
+[INFO] Checking for unexpected pre-existing outputs....
+[INFO] Checking for unexpected pre-existing outputs. completed, took 0ms
+
+[INFO] Running build...
+[INFO] Compiling through NodeJS
+[INFO] Files: 
+ - out/package/lib/lib.es5.d.ts
+ - out/package/lib/lib.es2015.core.d.ts
+ - out/package/lib/lib.es2015.collection.d.ts
+ - out/package/lib/lib.es2015.iterable.d.ts
+ - out/package/lib/lib.es2015.generator.d.ts
+ - out/package/lib/lib.es2015.promise.d.ts
+ - out/package/lib/lib.es2015.proxy.d.ts
+ - out/package/lib/lib.es2015.reflect.d.ts
+ - out/package/lib/lib.es2015.symbol.d.ts
+ - out/package/lib/lib.es2015.symbol.wellknown.d.ts
+ - out/package/lib/lib.es2016.array.include.d.ts
+ - out/package/lib/lib.es2017.object.d.ts
+ - out/package/lib/lib.es2017.sharedmemory.d.ts
+ - out/package/lib/lib.es2017.string.d.ts
+ - out/package/lib/lib.es2017.intl.d.ts
+ - out/package/lib/lib.es2017.typedarrays.d.ts
+ - out/package/lib/lib.es2018.asynciterable.d.ts
+ - out/package/lib/lib.es2018.asyncgenerator.d.ts
+ - out/package/lib/lib.es2018.promise.d.ts
+ - out/package/lib/lib.es2018.regexp.d.ts
+ - out/package/lib/lib.es2018.intl.d.ts
+ - out/package/lib/lib.es2019.array.d.ts
+ - out/package/lib/lib.es2019.object.d.ts
+ - out/package/lib/lib.es2019.string.d.ts
+ - out/package/lib/lib.es2019.symbol.d.ts
+ - out/package/lib/lib.es2019.intl.d.ts
+ - out/package/lib/lib.es2020.bigint.d.ts
+ - out/package/lib/lib.es2020.date.d.ts
+ - out/package/lib/lib.es2020.number.d.ts
+ - out/package/lib/lib.es2020.promise.d.ts
+ - out/package/lib/lib.es2020.sharedmemory.d.ts
+ - out/package/lib/lib.es2020.string.d.ts
+ - out/package/lib/lib.es2020.symbol.wellknown.d.ts
+ - out/package/lib/lib.es2020.intl.d.ts
+ - out/package/lib/lib.es2021.intl.d.ts
+ - out/package/lib/lib.es2021.promise.d.ts
+ - out/package/lib/lib.es2021.string.d.ts
+ - out/package/lib/lib.es2021.weakref.d.ts
+ - out/package/lib/lib.es2022.array.d.ts
+ - out/package/lib/lib.es2022.error.d.ts
+ - out/package/lib/lib.es2022.intl.d.ts
+ - out/package/lib/lib.es2022.object.d.ts
+ - out/package/lib/lib.es2022.regexp.d.ts
+ - out/package/lib/lib.es2022.sharedmemory.d.ts
+ - out/package/lib/lib.es2023.array.d.ts
+ - out/package/lib/lib.dom.d.ts
+ - out/package/lib/lib.webworker.importscripts.d.ts
+ - out/package/lib/lib.scripthost.d.ts
+[INFO] 1.5s elapsed, 0/1 actions completed.
+
+
+[INFO] Done compiling
+[INFO] Listing structures in file lib.es5.d.ts namespace ""
+[WARNING] Skipping mapped struct "Function"
+[WARNING] Skipping mapped struct "String"
+[WARNING] Skipping mapped struct "Date"
+[WARNING] Skipping mapped struct "ArrayBuffer"
+[WARNING] Skipping mapped struct "DataView"
+[WARNING] Skipping mapped struct "Int8Array"
+[WARNING] Skipping mapped struct "Uint8Array"
+[WARNING] Skipping mapped struct "Uint8ClampedArray"
+[WARNING] Skipping mapped struct "Int16Array"
+[WARNING] Skipping mapped struct "Uint16Array"
+[WARNING] Skipping mapped struct "Int32Array"
+[WARNING] Skipping mapped struct "Uint32Array"
+[WARNING] Skipping mapped struct "Float32Array"
+[WARNING] Skipping mapped struct "Float64Array"
+[INFO] Listing structures in file lib.es2015.core.d.ts namespace ""
+[INFO] Listing structures in file lib.es2015.collection.d.ts namespace ""
+[INFO] Listing structures in file lib.es2015.iterable.d.ts namespace ""
+[INFO] Listing structures in file lib.es2015.generator.d.ts namespace ""
+[INFO] Listing structures in file lib.es2015.promise.d.ts namespace ""
+[INFO] Listing structures in file lib.es2015.proxy.d.ts namespace ""
+[INFO] Listing structures in file lib.es2015.reflect.d.ts namespace ""
+[INFO] Listing structures in file lib.es2015.symbol.d.ts namespace ""
+[INFO] Listing structures in file lib.es2015.symbol.wellknown.d.ts namespace ""
+[INFO] Listing structures in file lib.es2016.array.include.d.ts namespace ""
+[INFO] Listing structures in file lib.es2017.object.d.ts namespace ""
+[INFO] Listing structures in file lib.es2017.sharedmemory.d.ts namespace ""
+[INFO] Listing structures in file lib.es2017.string.d.ts namespace ""
+[INFO] Listing structures in file lib.es2017.intl.d.ts namespace ""
+[INFO] Listing structures in file lib.es2017.typedarrays.d.ts namespace ""
+[INFO] Listing structures in file lib.es2018.asynciterable.d.ts namespace ""
+[INFO] Listing structures in file lib.es2018.asyncgenerator.d.ts namespace ""
+[INFO] Listing structures in file lib.es2018.promise.d.ts namespace ""
+[INFO] Listing structures in file lib.es2018.regexp.d.ts namespace ""
+[INFO] Listing structures in file lib.es2018.intl.d.ts namespace ""
+[INFO] Listing structures in file lib.es2019.array.d.ts namespace ""
+[INFO] Listing structures in file lib.es2019.object.d.ts namespace ""
+[INFO] Listing structures in file lib.es2019.string.d.ts namespace ""
+[INFO] Listing structures in file lib.es2019.symbol.d.ts namespace ""
+[INFO] Listing structures in file lib.es2019.intl.d.ts namespace ""
+[INFO] Listing structures in file lib.es2020.bigint.d.ts namespace ""
+[INFO] Listing structures in file lib.es2020.date.d.ts namespace ""
+[INFO] Listing structures in file lib.es2020.number.d.ts namespace ""
+[INFO] Listing structures in file lib.es2020.promise.d.ts namespace ""
+[INFO] Listing structures in file lib.es2020.sharedmemory.d.ts namespace ""
+[INFO] Listing structures in file lib.es2020.string.d.ts namespace ""
+[INFO] Listing structures in file lib.es2020.symbol.wellknown.d.ts namespace ""
+[INFO] Listing structures in file lib.es2020.intl.d.ts namespace ""
+[INFO] Listing structures in file lib.es2021.intl.d.ts namespace ""
+[INFO] Listing structures in file lib.es2021.promise.d.ts namespace ""
+[INFO] Listing structures in file lib.es2021.string.d.ts namespace ""
+[INFO] Listing structures in file lib.es2021.weakref.d.ts namespace ""
+[INFO] Listing structures in file lib.es2022.array.d.ts namespace ""
+[INFO] Listing structures in file lib.es2022.error.d.ts namespace ""
+[INFO] Listing structures in file lib.es2022.intl.d.ts namespace ""
+[INFO] Listing structures in file lib.es2022.object.d.ts namespace ""
+[INFO] Listing structures in file lib.es2022.regexp.d.ts namespace ""
+[INFO] Listing structures in file lib.es2022.sharedmemory.d.ts namespace ""
+[INFO] Listing structures in file lib.es2023.array.d.ts namespace ""
+[INFO] Listing structures in file lib.dom.d.ts namespace ""
+[INFO] Listing structures in file lib.webworker.importscripts.d.ts namespace ""
+[INFO] Listing structures in file lib.scripthost.d.ts namespace ""
+[INFO] Parsing structures: lib.es5.d.ts
+[INFO] Parsing structures: lib.es5.d.ts
+[INFO] Parsing structures: lib.es2015.core.d.ts
+[INFO] Parsing structures: lib.es2015.collection.d.ts
+[INFO] Parsing structures: lib.es2015.iterable.d.ts
+[INFO] Parsing structures: lib.es2015.generator.d.ts
+[INFO] Parsing structures: lib.es2015.promise.d.ts
+[INFO] Parsing structures: lib.es2015.proxy.d.ts
+[INFO] Parsing structures: lib.es2015.reflect.d.ts
+[INFO] Parsing structures: lib.es2015.reflect.d.ts
+[INFO] Parsing structures: lib.es2015.symbol.d.ts
+[INFO] Parsing structures: lib.es2015.symbol.wellknown.d.ts
+[INFO] Parsing structures: lib.es2016.array.include.d.ts
+[INFO] Parsing structures: lib.es2017.object.d.ts
+[INFO] Parsing structures: lib.es2017.sharedmemory.d.ts
+[INFO] Parsing structures: lib.es2017.string.d.ts
+[INFO] Parsing structures: lib.es2017.intl.d.ts
+[INFO] Parsing structures: lib.es2017.typedarrays.d.ts
+[INFO] Parsing structures: lib.es2018.asynciterable.d.ts
+[INFO] Parsing structures: lib.es2018.asyncgenerator.d.ts
+[INFO] Parsing structures: lib.es2018.promise.d.ts
+[INFO] Parsing structures: lib.es2018.regexp.d.ts
+[INFO] Parsing structures: lib.es2018.intl.d.ts
+[INFO] Parsing structures: lib.es2019.array.d.ts
+[INFO] Parsing structures: lib.es2019.object.d.ts
+[INFO] Parsing structures: lib.es2019.string.d.ts
+[INFO] Parsing structures: lib.es2019.symbol.d.ts
+[INFO] Parsing structures: lib.es2019.intl.d.ts
+[INFO] Parsing structures: lib.es2020.bigint.d.ts
+[INFO] Parsing structures: lib.es2020.date.d.ts
+[INFO] Parsing structures: lib.es2020.number.d.ts
+[INFO] Parsing structures: lib.es2020.promise.d.ts
+[INFO] Parsing structures: lib.es2020.sharedmemory.d.ts
+[INFO] Parsing structures: lib.es2020.string.d.ts
+[INFO] Parsing structures: lib.es2020.symbol.wellknown.d.ts
+[INFO] Parsing structures: lib.es2020.intl.d.ts
+[INFO] Parsing structures: lib.es2021.intl.d.ts
+[INFO] Parsing structures: lib.es2021.promise.d.ts
+[INFO] Parsing structures: lib.es2021.string.d.ts
+[INFO] Parsing structures: lib.es2021.weakref.d.ts
+[INFO] Parsing structures: lib.es2022.array.d.ts
+[INFO] Parsing structures: lib.es2022.error.d.ts
+[INFO] Parsing structures: lib.es2022.intl.d.ts
+[INFO] Parsing structures: lib.es2022.object.d.ts
+[INFO] Parsing structures: lib.es2022.regexp.d.ts
+[INFO] Parsing structures: lib.es2022.sharedmemory.d.ts
+[INFO] Parsing structures: lib.es2023.array.d.ts
+[INFO] Parsing structures: lib.dom.d.ts
+[INFO] Parsing structures: lib.dom.d.ts
+[INFO] Parsing structures: lib.dom.d.ts
+[INFO] Parsing structures: lib.webworker.importscripts.d.ts
+[INFO] Parsing structures: lib.scripthost.d.ts
+[INFO] Configure: lib.es5.d.ts
+[WARNING] Skipping list value of operator. Holder InteropOperator(operator: InteropOperatorType.readonly). LineNumber: 108, operator: InteropOperatorType.keyOf
+[WARNING] Skipping list value of operator. Holder InteropStaticType.list. LineNumber: 98, operator: InteropOperatorType.keyOf
+[INFO] Skipping declared var Function because type isnt class: InteropStaticType.function
+[INFO] Skipping declared var String because type isnt class: InteropStaticType.string
+[INFO] Skipping declared var Date because type isnt class: InteropStaticType.date
+[INFO] Skipping declared var ArrayBuffer because type isnt class: InteropStaticType.byteBuffer
+[INFO] Skipping declared var DataView because type isnt class: InteropStaticType.byteData
+[INFO] Skipping declared var Int8Array because type isnt class: InteropStaticType.int8List
+[INFO] Skipping declared var Uint8Array because type isnt class: InteropStaticType.uInt8List
+[INFO] Skipping declared var Uint8ClampedArray because type isnt class: InteropStaticType.uInt8ClampedList
+[INFO] Skipping declared var Int16Array because type isnt class: InteropStaticType.int16List
+[INFO] Skipping declared var Uint16Array because type isnt class: InteropStaticType.uInt16List
+[INFO] Skipping declared var Int32Array because type isnt class: InteropStaticType.int32List
+[INFO] Skipping declared var Uint32Array because type isnt class: InteropStaticType.uInt32List
+[INFO] Skipping declared var Float32Array because type isnt class: InteropStaticType.float32List
+[INFO] Skipping declared var Float64Array because type isnt class: InteropStaticType.float64List
+[INFO] Configure: lib.es5.d.ts
+[INFO] Configure: lib.es2015.core.d.ts
+[INFO] Configure: lib.es2015.collection.d.ts
+[INFO] Configure: lib.es2015.iterable.d.ts
+[INFO] Configure: lib.es2015.generator.d.ts
+[INFO] Configure: lib.es2015.promise.d.ts
+[INFO] Configure: lib.es2015.proxy.d.ts
+[INFO] Configure: lib.es2015.reflect.d.ts
+[INFO] Configure: lib.es2015.reflect.d.ts
+[INFO] Configure: lib.es2015.symbol.d.ts
+[INFO] Configure: lib.es2015.symbol.wellknown.d.ts
+[INFO] Configure: lib.es2016.array.include.d.ts
+[INFO] Configure: lib.es2017.object.d.ts
+[INFO] Configure: lib.es2017.sharedmemory.d.ts
+[INFO] Configure: lib.es2017.string.d.ts
+[INFO] Configure: lib.es2017.intl.d.ts
+[INFO] Configure: lib.es2017.typedarrays.d.ts
+[INFO] Configure: lib.es2018.asynciterable.d.ts
+[INFO] Configure: lib.es2018.asyncgenerator.d.ts
+[INFO] Configure: lib.es2018.promise.d.ts
+[INFO] Configure: lib.es2018.regexp.d.ts
+[INFO] Configure: lib.es2018.intl.d.ts
+[INFO] Configure: lib.es2019.array.d.ts
+[INFO] Configure: lib.es2019.object.d.ts
+[INFO] Configure: lib.es2019.string.d.ts
+[INFO] Configure: lib.es2019.symbol.d.ts
+[INFO] Configure: lib.es2019.intl.d.ts
+[INFO] Configure: lib.es2020.bigint.d.ts
+[INFO] Configure: lib.es2020.date.d.ts
+[INFO] Configure: lib.es2020.number.d.ts
+[INFO] Configure: lib.es2020.promise.d.ts
+[INFO] Configure: lib.es2020.sharedmemory.d.ts
+[INFO] Configure: lib.es2020.string.d.ts
+[INFO] Configure: lib.es2020.symbol.wellknown.d.ts
+[INFO] Configure: lib.es2020.intl.d.ts
+[INFO] Configure: lib.es2021.intl.d.ts
+[INFO] Configure: lib.es2021.promise.d.ts
+[INFO] Configure: lib.es2021.string.d.ts
+[INFO] Configure: lib.es2021.weakref.d.ts
+[INFO] Configure: lib.es2022.array.d.ts
+[INFO] Configure: lib.es2022.error.d.ts
+[INFO] Configure: lib.es2022.intl.d.ts
+[INFO] Configure: lib.es2022.object.d.ts
+[INFO] Configure: lib.es2022.regexp.d.ts
+[INFO] Configure: lib.es2022.sharedmemory.d.ts
+[INFO] Configure: lib.es2023.array.d.ts
+[INFO] Configure: lib.dom.d.ts
+[INFO] Skipping declared var NodeFilter because type isnt class: InteropTypedef#1039269489(name: NodeFilter)
+[INFO] Skipping declared var DOMStringMap because type isnt class: InteropStaticType.obj
+[INFO] Configure: lib.dom.d.ts
+[INFO] Configure: lib.dom.d.ts
+[INFO] Configure: lib.webworker.importscripts.d.ts
+[INFO] Configure: lib.scripthost.d.ts
+[INFO] Cache: lib.es5.d.ts
+[INFO] Cache: lib.es5.d.ts
+[INFO] Cache: lib.es2015.core.d.ts
+[INFO] Cache: lib.es2015.collection.d.ts
+[INFO] Cache: lib.es2015.iterable.d.ts
+[INFO] Cache: lib.es2015.generator.d.ts
+[INFO] Cache: lib.es2015.promise.d.ts
+[INFO] Cache: lib.es2015.proxy.d.ts
+[INFO] Cache: lib.es2015.reflect.d.ts
+[INFO] Cache: lib.es2015.reflect.d.ts
+[INFO] Cache: lib.es2015.symbol.d.ts
+[INFO] Cache: lib.es2015.symbol.wellknown.d.ts
+[INFO] Cache: lib.es2016.array.include.d.ts
+[INFO] Cache: lib.es2017.object.d.ts
+[INFO] Cache: lib.es2017.sharedmemory.d.ts
+[INFO] Cache: lib.es2017.string.d.ts
+[INFO] Cache: lib.es2017.intl.d.ts
+[INFO] Cache: lib.es2017.typedarrays.d.ts
+[INFO] Cache: lib.es2018.asynciterable.d.ts
+[INFO] Cache: lib.es2018.asyncgenerator.d.ts
+[INFO] Cache: lib.es2018.promise.d.ts
+[INFO] Cache: lib.es2018.regexp.d.ts
+[INFO] Cache: lib.es2018.intl.d.ts
+[INFO] Cache: lib.es2019.array.d.ts
+[INFO] Cache: lib.es2019.object.d.ts
+[INFO] Cache: lib.es2019.string.d.ts
+[INFO] Cache: lib.es2019.symbol.d.ts
+[INFO] Cache: lib.es2019.intl.d.ts
+[INFO] Cache: lib.es2020.bigint.d.ts
+[INFO] Cache: lib.es2020.date.d.ts
+[INFO] Cache: lib.es2020.number.d.ts
+[INFO] Cache: lib.es2020.promise.d.ts
+[INFO] Cache: lib.es2020.sharedmemory.d.ts
+[INFO] Cache: lib.es2020.string.d.ts
+[INFO] Cache: lib.es2020.symbol.wellknown.d.ts
+[INFO] Cache: lib.es2020.intl.d.ts
+[INFO] Cache: lib.es2021.intl.d.ts
+[INFO] Cache: lib.es2021.promise.d.ts
+[INFO] Cache: lib.es2021.string.d.ts
+[INFO] Cache: lib.es2021.weakref.d.ts
+[INFO] Cache: lib.es2022.array.d.ts
+[INFO] Cache: lib.es2022.error.d.ts
+[INFO] Cache: lib.es2022.intl.d.ts
+[INFO] Cache: lib.es2022.object.d.ts
+[INFO] Cache: lib.es2022.regexp.d.ts
+[INFO] Cache: lib.es2022.sharedmemory.d.ts
+[INFO] Cache: lib.es2023.array.d.ts
+[INFO] Cache: lib.dom.d.ts
+[INFO] Cache: lib.dom.d.ts
+[INFO] Cache: lib.dom.d.ts
+[INFO] Cache: lib.webworker.importscripts.d.ts
+[INFO] Cache: lib.scripthost.d.ts
+[INFO] Transpile: lib.es5.d.ts
+[WARNING] GENERATE lib.es5.d.dart, , lib.es5.d.ts
+lib.es5.d.dart
+[INFO] Transpile: lib.es2015.core.d.ts
+[WARNING] GENERATE lib.es2015.core.d.dart, , lib.es2015.core.d.ts
+lib.es2015.core.d.dart
+[INFO] Transpile: lib.es2015.collection.d.ts
+[WARNING] GENERATE lib.es2015.collection.d.dart, , lib.es2015.collection.d.ts
+lib.es2015.collection.d.dart
+[INFO] Transpile: lib.es2015.iterable.d.ts
+[WARNING] GENERATE lib.es2015.iterable.d.dart, , lib.es2015.iterable.d.ts
+lib.es2015.iterable.d.dart
+[INFO] Transpile: lib.es2015.generator.d.ts
+[WARNING] GENERATE lib.es2015.generator.d.dart, , lib.es2015.generator.d.ts
+lib.es2015.generator.d.dart
+[INFO] Transpile: lib.es2015.promise.d.ts
+[WARNING] GENERATE lib.es2015.promise.d.dart, , lib.es2015.promise.d.ts
+lib.es2015.promise.d.dart
+[INFO] Transpile: lib.es2015.proxy.d.ts
+[WARNING] GENERATE lib.es2015.proxy.d.dart, , lib.es2015.proxy.d.ts
+lib.es2015.proxy.d.dart
+[INFO] Transpile: lib.es2015.reflect.d.ts
+[WARNING] GENERATE lib.es2015.reflect.d.dart, , lib.es2015.reflect.d.ts
+lib.es2015.reflect.d.dart
+[INFO] Transpile: lib.es2015.symbol.d.ts
+[WARNING] GENERATE lib.es2015.symbol.d.dart, , lib.es2015.symbol.d.ts
+lib.es2015.symbol.d.dart
+[INFO] Transpile: lib.es2015.symbol.wellknown.d.ts
+[WARNING] GENERATE lib.es2015.symbol.wellknown.d.dart, , lib.es2015.symbol.wellknown.d.ts
+lib.es2015.symbol.wellknown.d.dart
+[INFO] Transpile: lib.es2016.array.include.d.ts
+[WARNING] GENERATE lib.es2016.array.include.d.dart, , lib.es2016.array.include.d.ts
+lib.es2016.array.include.d.dart
+[INFO] Transpile: lib.es2017.object.d.ts
+[WARNING] GENERATE lib.es2017.object.d.dart, , lib.es2017.object.d.ts
+lib.es2017.object.d.dart
+[INFO] Transpile: lib.es2017.sharedmemory.d.ts
+[WARNING] GENERATE lib.es2017.sharedmemory.d.dart, , lib.es2017.sharedmemory.d.ts
+lib.es2017.sharedmemory.d.dart
+[INFO] Transpile: lib.es2017.string.d.ts
+[WARNING] GENERATE lib.es2017.string.d.dart, , lib.es2017.string.d.ts
+lib.es2017.string.d.dart
+[INFO] Transpile: lib.es2017.intl.d.ts
+[WARNING] GENERATE lib.es2017.intl.d.dart, , lib.es2017.intl.d.ts
+lib.es2017.intl.d.dart
+[INFO] Transpile: lib.es2017.typedarrays.d.ts
+[WARNING] GENERATE lib.es2017.typedarrays.d.dart, , lib.es2017.typedarrays.d.ts
+lib.es2017.typedarrays.d.dart
+[INFO] Transpile: lib.es2018.asynciterable.d.ts
+[WARNING] GENERATE lib.es2018.asynciterable.d.dart, , lib.es2018.asynciterable.d.ts
+lib.es2018.asynciterable.d.dart
+[INFO] Transpile: lib.es2018.asyncgenerator.d.ts
+[WARNING] GENERATE lib.es2018.asyncgenerator.d.dart, , lib.es2018.asyncgenerator.d.ts
+lib.es2018.asyncgenerator.d.dart
+[INFO] Transpile: lib.es2018.promise.d.ts
+[WARNING] GENERATE lib.es2018.promise.d.dart, , lib.es2018.promise.d.ts
+lib.es2018.promise.d.dart
+[INFO] Transpile: lib.es2018.regexp.d.ts
+[WARNING] GENERATE lib.es2018.regexp.d.dart, , lib.es2018.regexp.d.ts
+lib.es2018.regexp.d.dart
+[INFO] Transpile: lib.es2018.intl.d.ts
+[WARNING] GENERATE lib.es2018.intl.d.dart, , lib.es2018.intl.d.ts
+lib.es2018.intl.d.dart
+[INFO] Transpile: lib.es2019.array.d.ts
+[WARNING] GENERATE lib.es2019.array.d.dart, , lib.es2019.array.d.ts
+lib.es2019.array.d.dart
+[INFO] Transpile: lib.es2019.object.d.ts
+[WARNING] GENERATE lib.es2019.object.d.dart, , lib.es2019.object.d.ts
+lib.es2019.object.d.dart
+[INFO] Transpile: lib.es2019.string.d.ts
+[WARNING] GENERATE lib.es2019.string.d.dart, , lib.es2019.string.d.ts
+lib.es2019.string.d.dart
+[INFO] Transpile: lib.es2019.symbol.d.ts
+[WARNING] GENERATE lib.es2019.symbol.d.dart, , lib.es2019.symbol.d.ts
+lib.es2019.symbol.d.dart
+[INFO] Transpile: lib.es2019.intl.d.ts
+[WARNING] GENERATE lib.es2019.intl.d.dart, , lib.es2019.intl.d.ts
+lib.es2019.intl.d.dart
+[INFO] Transpile: lib.es2020.bigint.d.ts
+[WARNING] GENERATE lib.es2020.bigint.d.dart, , lib.es2020.bigint.d.ts
+lib.es2020.bigint.d.dart
+[INFO] Transpile: lib.es2020.date.d.ts
+[WARNING] GENERATE lib.es2020.date.d.dart, , lib.es2020.date.d.ts
+lib.es2020.date.d.dart
+[INFO] Transpile: lib.es2020.number.d.ts
+[WARNING] GENERATE lib.es2020.number.d.dart, , lib.es2020.number.d.ts
+lib.es2020.number.d.dart
+[INFO] Transpile: lib.es2020.promise.d.ts
+[WARNING] GENERATE lib.es2020.promise.d.dart, , lib.es2020.promise.d.ts
+lib.es2020.promise.d.dart
+[INFO] Transpile: lib.es2020.sharedmemory.d.ts
+[WARNING] GENERATE lib.es2020.sharedmemory.d.dart, , lib.es2020.sharedmemory.d.ts
+lib.es2020.sharedmemory.d.dart
+[INFO] Transpile: lib.es2020.string.d.ts
+[WARNING] GENERATE lib.es2020.string.d.dart, , lib.es2020.string.d.ts
+lib.es2020.string.d.dart
+[INFO] Transpile: lib.es2020.symbol.wellknown.d.ts
+[WARNING] GENERATE lib.es2020.symbol.wellknown.d.dart, , lib.es2020.symbol.wellknown.d.ts
+lib.es2020.symbol.wellknown.d.dart
+[INFO] Transpile: lib.es2020.intl.d.ts
+[WARNING] GENERATE lib.es2020.intl.d.dart, , lib.es2020.intl.d.ts
+lib.es2020.intl.d.dart
+[INFO] Transpile: lib.es2021.intl.d.ts
+[WARNING] GENERATE lib.es2021.intl.d.dart, , lib.es2021.intl.d.ts
+lib.es2021.intl.d.dart
+[INFO] Transpile: lib.es2021.promise.d.ts
+[WARNING] GENERATE lib.es2021.promise.d.dart, , lib.es2021.promise.d.ts
+lib.es2021.promise.d.dart
+[INFO] Transpile: lib.es2021.string.d.ts
+[WARNING] GENERATE lib.es2021.string.d.dart, , lib.es2021.string.d.ts
+lib.es2021.string.d.dart
+[INFO] Transpile: lib.es2021.weakref.d.ts
+[WARNING] GENERATE lib.es2021.weakref.d.dart, , lib.es2021.weakref.d.ts
+lib.es2021.weakref.d.dart
+[INFO] Transpile: lib.es2022.array.d.ts
+[WARNING] GENERATE lib.es2022.array.d.dart, , lib.es2022.array.d.ts
+lib.es2022.array.d.dart
+[INFO] Transpile: lib.es2022.error.d.ts
+[WARNING] GENERATE lib.es2022.error.d.dart, , lib.es2022.error.d.ts
+lib.es2022.error.d.dart
+[INFO] Transpile: lib.es2022.intl.d.ts
+[WARNING] GENERATE lib.es2022.intl.d.dart, , lib.es2022.intl.d.ts
+lib.es2022.intl.d.dart
+[INFO] Transpile: lib.es2022.object.d.ts
+[WARNING] GENERATE lib.es2022.object.d.dart, , lib.es2022.object.d.ts
+lib.es2022.object.d.dart
+[INFO] Transpile: lib.es2022.regexp.d.ts
+[WARNING] GENERATE lib.es2022.regexp.d.dart, , lib.es2022.regexp.d.ts
+lib.es2022.regexp.d.dart
+[INFO] Transpile: lib.es2022.sharedmemory.d.ts
+[WARNING] GENERATE lib.es2022.sharedmemory.d.dart, , lib.es2022.sharedmemory.d.ts
+lib.es2022.sharedmemory.d.dart
+[INFO] Transpile: lib.es2023.array.d.ts
+[WARNING] GENERATE lib.es2023.array.d.dart, , lib.es2023.array.d.ts
+lib.es2023.array.d.dart
+[INFO] Transpile: lib.dom.d.ts
+[WARNING] Empty enum InteropDynamicEnum#796553144(name: HTMLBodyElementEventMap)
+[WARNING] Empty enum InteropDynamicEnum#884311976(name: HTMLElementEventMap)
+[WARNING] Empty enum InteropDynamicEnum#932200015(name: HTMLFrameSetElementEventMap)
+[WARNING] Empty enum InteropDynamicEnum#695533378(name: MathMLElementEventMap)
+[WARNING] Empty enum InteropDynamicEnum#136043507(name: SVGElementEventMap)
+[WARNING] Empty enum InteropDynamicEnum#303739016(name: SVGSVGElementEventMap)
+[WARNING] GENERATE lib.dom.d.dart, , lib.dom.d.ts
+lib.dom.d.dart
+[INFO] Transpile: lib.webworker.importscripts.d.ts
+[WARNING] GENERATE lib.webworker.importscripts.d.dart, , lib.webworker.importscripts.d.ts
+lib.webworker.importscripts.d.dart
+[INFO] Transpile: lib.scripthost.d.ts
+[WARNING] GENERATE lib.scripthost.d.dart, , lib.scripthost.d.ts
+lib.scripthost.d.dart
+[INFO] Transpile: lib.es5.d.ts
+[WARNING] GENERATE lib.es5.intl.d.dart, Intl, lib.es5.d.ts
+lib.es5.intl.d.dart
+[INFO] Transpile: lib.es2015.reflect.d.ts
+[WARNING] GENERATE lib.es2015.reflect.reflect.d.dart, Reflect, lib.es2015.reflect.d.ts
+lib.es2015.reflect.reflect.d.dart
+[INFO] Transpile: lib.dom.d.ts
+[WARNING] GENERATE lib.dom.css.d.dart, CSS, lib.dom.d.ts
+lib.dom.css.d.dart
+[INFO] Transpile: lib.dom.d.ts
+[WARNING] GENERATE lib.dom.webassembly.d.dart, WebAssembly, lib.dom.d.ts
+lib.dom.webassembly.d.dart
+[WARNING] typings:coregenerator on lib/core.dart:
+DONE typescript
+[INFO] Compiling through NodeJS
+[INFO] Files: 
+ - /Users/dazzlemon/github/typings/typings/work/inputmask/out/temp/https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/master/types/inputmask/index.d.ts
+[INFO] 6.4s elapsed, 2/5 actions completed.
+[INFO] Compiling through NodeJS
+[INFO] Files: 
+ - out/package/release/go.d.ts
+[INFO] Compiling through NodeJS
+[INFO] Files: 
+ - /Users/dazzlemon/github/typings/typings/work/deno/download/0lib.deno.d.ts
+
+
+[INFO] Done compiling
+[INFO] Listing structures in file lib.es5.d.ts namespace ""
+[WARNING] Skipping mapped struct "Function"
+[WARNING] Skipping mapped struct "String"
+[WARNING] Skipping mapped struct "Date"
+[WARNING] Skipping mapped struct "ArrayBuffer"
+[WARNING] Skipping mapped struct "DataView"
+[WARNING] Skipping mapped struct "Int8Array"
+[WARNING] Skipping mapped struct "Uint8Array"
+[WARNING] Skipping mapped struct "Uint8ClampedArray"
+[WARNING] Skipping mapped struct "Int16Array"
+[WARNING] Skipping mapped struct "Uint16Array"
+[WARNING] Skipping mapped struct "Int32Array"
+[WARNING] Skipping mapped struct "Uint32Array"
+[WARNING] Skipping mapped struct "Float32Array"
+[WARNING] Skipping mapped struct "Float64Array"
+[INFO] Listing structures in file lib.es2015.core.d.ts namespace ""
+[INFO] Listing structures in file lib.es2015.collection.d.ts namespace ""
+[INFO] Listing structures in file lib.es2015.iterable.d.ts namespace ""
+[INFO] Listing structures in file lib.es2015.generator.d.ts namespace ""
+[INFO] Listing structures in file lib.es2015.promise.d.ts namespace ""
+[INFO] Listing structures in file lib.es2015.proxy.d.ts namespace ""
+[INFO] Listing structures in file lib.es2015.reflect.d.ts namespace ""
+[INFO] Listing structures in file lib.es2015.symbol.d.ts namespace ""
+[INFO] Listing structures in file lib.es2015.symbol.wellknown.d.ts namespace ""
+[INFO] Listing structures in file lib.es2016.array.include.d.ts namespace ""
+[INFO] Listing structures in file lib.es2017.object.d.ts namespace ""
+[INFO] Listing structures in file lib.es2017.sharedmemory.d.ts namespace ""
+[INFO] Listing structures in file lib.es2017.string.d.ts namespace ""
+[INFO] Listing structures in file lib.es2017.intl.d.ts namespace ""
+[INFO] Listing structures in file lib.es2017.typedarrays.d.ts namespace ""
+[INFO] Listing structures in file lib.es2018.asynciterable.d.ts namespace ""
+[INFO] Listing structures in file lib.es2018.asyncgenerator.d.ts namespace ""
+[INFO] Listing structures in file lib.es2018.promise.d.ts namespace ""
+[INFO] Listing structures in file lib.es2018.regexp.d.ts namespace ""
+[INFO] Listing structures in file lib.es2018.intl.d.ts namespace ""
+[INFO] Listing structures in file lib.es2019.array.d.ts namespace ""
+[INFO] Listing structures in file lib.es2019.object.d.ts namespace ""
+[INFO] Listing structures in file lib.es2019.string.d.ts namespace ""
+[INFO] Listing structures in file lib.es2019.symbol.d.ts namespace ""
+[INFO] Listing structures in file lib.es2019.intl.d.ts namespace ""
+[INFO] Listing structures in file lib.es2020.bigint.d.ts namespace ""
+[INFO] Listing structures in file lib.es2020.date.d.ts namespace ""
+[INFO] Listing structures in file lib.es2020.number.d.ts namespace ""
+[INFO] Listing structures in file lib.es2020.promise.d.ts namespace ""
+[INFO] Listing structures in file lib.es2020.sharedmemory.d.ts namespace ""
+[INFO] Listing structures in file lib.es2020.string.d.ts namespace ""
+[INFO] Listing structures in file lib.es2020.symbol.wellknown.d.ts namespace ""
+[INFO] Listing structures in file lib.es2020.intl.d.ts namespace ""
+[INFO] Listing structures in file lib.es2021.intl.d.ts namespace ""
+[INFO] Listing structures in file lib.es2021.promise.d.ts namespace ""
+[INFO] Listing structures in file lib.es2021.string.d.ts namespace ""
+[INFO] Listing structures in file lib.es2021.weakref.d.ts namespace ""
+[INFO] Listing structures in file lib.es2022.array.d.ts namespace ""
+[INFO] Listing structures in file lib.es2022.error.d.ts namespace ""
+[INFO] Listing structures in file lib.es2022.intl.d.ts namespace ""
+[INFO] Listing structures in file lib.es2022.object.d.ts namespace ""
+[INFO] Listing structures in file lib.es2022.regexp.d.ts namespace ""
+[INFO] Listing structures in file lib.es2022.sharedmemory.d.ts namespace ""
+[INFO] Listing structures in file lib.es2023.array.d.ts namespace ""
+[INFO] Listing structures in file lib.dom.d.ts namespace ""
+[INFO] Listing structures in file lib.webworker.importscripts.d.ts namespace ""
+[INFO] Listing structures in file lib.scripthost.d.ts namespace ""
+[INFO] Parsing structures: lib.es5.d.ts
+[INFO] Parsing structures: lib.es5.d.ts
+[INFO] Parsing structures: lib.es2015.core.d.ts
+[INFO] Parsing structures: lib.es2015.collection.d.ts
+[INFO] Parsing structures: lib.es2015.iterable.d.ts
+[INFO] Parsing structures: lib.es2015.generator.d.ts
+[INFO] Parsing structures: lib.es2015.promise.d.ts
+[INFO] Parsing structures: lib.es2015.proxy.d.ts
+[INFO] Parsing structures: lib.es2015.reflect.d.ts
+[INFO] Parsing structures: lib.es2015.reflect.d.ts
+[INFO] Parsing structures: lib.es2015.symbol.d.ts
+[INFO] Parsing structures: lib.es2015.symbol.wellknown.d.ts
+[INFO] Parsing structures: lib.es2016.array.include.d.ts
+[INFO] Parsing structures: lib.es2017.object.d.ts
+[INFO] Parsing structures: lib.es2017.sharedmemory.d.ts
+[INFO] Parsing structures: lib.es2017.string.d.ts
+[INFO] Parsing structures: lib.es2017.intl.d.ts
+[INFO] Parsing structures: lib.es2017.typedarrays.d.ts
+[INFO] Parsing structures: lib.es2018.asynciterable.d.ts
+[INFO] Parsing structures: lib.es2018.asyncgenerator.d.ts
+[INFO] Parsing structures: lib.es2018.promise.d.ts
+[INFO] Parsing structures: lib.es2018.regexp.d.ts
+[INFO] Parsing structures: lib.es2018.intl.d.ts
+[INFO] Parsing structures: lib.es2019.array.d.ts
+[INFO] Parsing structures: lib.es2019.object.d.ts
+[INFO] Parsing structures: lib.es2019.string.d.ts
+[INFO] Parsing structures: lib.es2019.symbol.d.ts
+[INFO] Parsing structures: lib.es2019.intl.d.ts
+[INFO] Parsing structures: lib.es2020.bigint.d.ts
+[INFO] Parsing structures: lib.es2020.date.d.ts
+[INFO] Parsing structures: lib.es2020.number.d.ts
+[INFO] Parsing structures: lib.es2020.promise.d.ts
+[INFO] Parsing structures: lib.es2020.sharedmemory.d.ts
+[INFO] Parsing structures: lib.es2020.string.d.ts
+[INFO] Parsing structures: lib.es2020.symbol.wellknown.d.ts
+[INFO] Parsing structures: lib.es2020.intl.d.ts
+[INFO] Parsing structures: lib.es2021.intl.d.ts
+[INFO] Parsing structures: lib.es2021.promise.d.ts
+[INFO] Parsing structures: lib.es2021.string.d.ts
+[INFO] Parsing structures: lib.es2021.weakref.d.ts
+[INFO] Parsing structures: lib.es2022.array.d.ts
+[INFO] Parsing structures: lib.es2022.error.d.ts
+[INFO] Parsing structures: lib.es2022.intl.d.ts
+[INFO] Parsing structures: lib.es2022.object.d.ts
+[INFO] Parsing structures: lib.es2022.regexp.d.ts
+[INFO] Parsing structures: lib.es2022.sharedmemory.d.ts
+[INFO] Parsing structures: lib.es2023.array.d.ts
+[INFO] Parsing structures: lib.dom.d.ts
+[INFO] Parsing structures: lib.dom.d.ts
+[INFO] Parsing structures: lib.dom.d.ts
+[INFO] Parsing structures: lib.webworker.importscripts.d.ts
+[INFO] Parsing structures: lib.scripthost.d.ts
+[INFO] Configure: lib.es5.d.ts
+[WARNING] Skipping list value of operator. Holder InteropOperator(operator: InteropOperatorType.readonly). LineNumber: 108, operator: InteropOperatorType.keyOf
+[WARNING] Skipping list value of operator. Holder InteropStaticType.list. LineNumber: 98, operator: InteropOperatorType.keyOf
+[INFO] Skipping declared var Function because type isnt class: InteropStaticType.function
+[INFO] Skipping declared var String because type isnt class: InteropStaticType.string
+[INFO] Skipping declared var Date because type isnt class: InteropStaticType.date
+[INFO] Skipping declared var ArrayBuffer because type isnt class: InteropStaticType.byteBuffer
+[INFO] Skipping declared var DataView because type isnt class: InteropStaticType.byteData
+[INFO] Skipping declared var Int8Array because type isnt class: InteropStaticType.int8List
+[INFO] Skipping declared var Uint8Array because type isnt class: InteropStaticType.uInt8List
+[INFO] Skipping declared var Uint8ClampedArray because type isnt class: InteropStaticType.uInt8ClampedList
+[INFO] Skipping declared var Int16Array because type isnt class: InteropStaticType.int16List
+[INFO] Skipping declared var Uint16Array because type isnt class: InteropStaticType.uInt16List
+[INFO] Skipping declared var Int32Array because type isnt class: InteropStaticType.int32List
+[INFO] Skipping declared var Uint32Array because type isnt class: InteropStaticType.uInt32List
+[INFO] Skipping declared var Float32Array because type isnt class: InteropStaticType.float32List
+[INFO] Skipping declared var Float64Array because type isnt class: InteropStaticType.float64List
+[INFO] Configure: lib.es5.d.ts
+[INFO] Configure: lib.es2015.core.d.ts
+[INFO] Configure: lib.es2015.collection.d.ts
+[INFO] Configure: lib.es2015.iterable.d.ts
+[INFO] Configure: lib.es2015.generator.d.ts
+[INFO] Configure: lib.es2015.promise.d.ts
+[INFO] Configure: lib.es2015.proxy.d.ts
+[INFO] Configure: lib.es2015.reflect.d.ts
+[INFO] Configure: lib.es2015.reflect.d.ts
+[INFO] Configure: lib.es2015.symbol.d.ts
+[INFO] Configure: lib.es2015.symbol.wellknown.d.ts
+[INFO] Configure: lib.es2016.array.include.d.ts
+[INFO] Configure: lib.es2017.object.d.ts
+[INFO] Configure: lib.es2017.sharedmemory.d.ts
+[INFO] Configure: lib.es2017.string.d.ts
+[INFO] Configure: lib.es2017.intl.d.ts
+[INFO] Configure: lib.es2017.typedarrays.d.ts
+[INFO] Configure: lib.es2018.asynciterable.d.ts
+[INFO] Configure: lib.es2018.asyncgenerator.d.ts
+[INFO] Configure: lib.es2018.promise.d.ts
+[INFO] Configure: lib.es2018.regexp.d.ts
+[INFO] Configure: lib.es2018.intl.d.ts
+[INFO] Configure: lib.es2019.array.d.ts
+[INFO] Configure: lib.es2019.object.d.ts
+[INFO] Configure: lib.es2019.string.d.ts
+[INFO] Configure: lib.es2019.symbol.d.ts
+[INFO] Configure: lib.es2019.intl.d.ts
+[INFO] Configure: lib.es2020.bigint.d.ts
+[INFO] Configure: lib.es2020.date.d.ts
+[INFO] Configure: lib.es2020.number.d.ts
+[INFO] Configure: lib.es2020.promise.d.ts
+[INFO] Configure: lib.es2020.sharedmemory.d.ts
+[INFO] Configure: lib.es2020.string.d.ts
+[INFO] Configure: lib.es2020.symbol.wellknown.d.ts
+[INFO] Configure: lib.es2020.intl.d.ts
+[INFO] Configure: lib.es2021.intl.d.ts
+[INFO] Configure: lib.es2021.promise.d.ts
+[INFO] Configure: lib.es2021.string.d.ts
+[INFO] Configure: lib.es2021.weakref.d.ts
+[INFO] Configure: lib.es2022.array.d.ts
+[INFO] Configure: lib.es2022.error.d.ts
+[INFO] Configure: lib.es2022.intl.d.ts
+[INFO] Configure: lib.es2022.object.d.ts
+[INFO] Configure: lib.es2022.regexp.d.ts
+[INFO] Configure: lib.es2022.sharedmemory.d.ts
+[INFO] Configure: lib.es2023.array.d.ts
+[INFO] Configure: lib.dom.d.ts
+[INFO] Skipping declared var NodeFilter because type isnt class: InteropTypedef#581650287(name: NodeFilter)
+[INFO] Skipping declared var DOMStringMap because type isnt class: InteropStaticType.obj
+[INFO] Configure: lib.dom.d.ts
+[INFO] Configure: lib.dom.d.ts
+[INFO] Configure: lib.webworker.importscripts.d.ts
+[INFO] Configure: lib.scripthost.d.ts
+[INFO] Cache: lib.es5.d.ts
+[INFO] Cache: lib.es5.d.ts
+[INFO] Cache: lib.es2015.core.d.ts
+[INFO] Cache: lib.es2015.collection.d.ts
+[INFO] Cache: lib.es2015.iterable.d.ts
+[INFO] Cache: lib.es2015.generator.d.ts
+[INFO] Cache: lib.es2015.promise.d.ts
+[INFO] Cache: lib.es2015.proxy.d.ts
+[INFO] Cache: lib.es2015.reflect.d.ts
+[INFO] Cache: lib.es2015.reflect.d.ts
+[INFO] Cache: lib.es2015.symbol.d.ts
+[INFO] Cache: lib.es2015.symbol.wellknown.d.ts
+[INFO] Cache: lib.es2016.array.include.d.ts
+[INFO] Cache: lib.es2017.object.d.ts
+[INFO] Cache: lib.es2017.sharedmemory.d.ts
+[INFO] Cache: lib.es2017.string.d.ts
+[INFO] Cache: lib.es2017.intl.d.ts
+[INFO] Cache: lib.es2017.typedarrays.d.ts
+[INFO] Cache: lib.es2018.asynciterable.d.ts
+[INFO] Cache: lib.es2018.asyncgenerator.d.ts
+[INFO] Cache: lib.es2018.promise.d.ts
+[INFO] Cache: lib.es2018.regexp.d.ts
+[INFO] Cache: lib.es2018.intl.d.ts
+[INFO] Cache: lib.es2019.array.d.ts
+[INFO] Cache: lib.es2019.object.d.ts
+[INFO] Cache: lib.es2019.string.d.ts
+[INFO] Cache: lib.es2019.symbol.d.ts
+[INFO] Cache: lib.es2019.intl.d.ts
+[INFO] Cache: lib.es2020.bigint.d.ts
+[INFO] Cache: lib.es2020.date.d.ts
+[INFO] Cache: lib.es2020.number.d.ts
+[INFO] Cache: lib.es2020.promise.d.ts
+[INFO] Cache: lib.es2020.sharedmemory.d.ts
+[INFO] Cache: lib.es2020.string.d.ts
+[INFO] Cache: lib.es2020.symbol.wellknown.d.ts
+[INFO] Cache: lib.es2020.intl.d.ts
+[INFO] Cache: lib.es2021.intl.d.ts
+[INFO] Cache: lib.es2021.promise.d.ts
+[INFO] Cache: lib.es2021.string.d.ts
+[INFO] Cache: lib.es2021.weakref.d.ts
+[INFO] Cache: lib.es2022.array.d.ts
+[INFO] Cache: lib.es2022.error.d.ts
+[INFO] Cache: lib.es2022.intl.d.ts
+[INFO] Cache: lib.es2022.object.d.ts
+[INFO] Cache: lib.es2022.regexp.d.ts
+[INFO] Cache: lib.es2022.sharedmemory.d.ts
+[INFO] Cache: lib.es2023.array.d.ts
+[INFO] Cache: lib.dom.d.ts
+[INFO] Cache: lib.dom.d.ts
+[INFO] Cache: lib.dom.d.ts
+[INFO] Cache: lib.webworker.importscripts.d.ts
+[INFO] Cache: lib.scripthost.d.ts
+[INFO] Listing structures in file index.d.ts namespace ""
+[INFO] Parsing structures: index.d.ts
+[INFO] Parsing structures: index.d.ts
+[INFO] Parsing structures: index.d.ts
+[INFO] Configure: index.d.ts
+[INFO] Configure: index.d.ts
+[INFO] Configure: index.d.ts
+[INFO] Cache: index.d.ts
+[INFO] Cache: index.d.ts
+[INFO] Cache: index.d.ts
+[INFO] Transpile: index.d.ts
+[WARNING] GENERATE index.d.dart, , index.d.ts
+index.d.dart
+[INFO] Transpile: index.d.ts
+[WARNING] GENERATE index.inputmask.d.dart, Inputmask, index.d.ts
+index.inputmask.d.dart
+[INFO] Transpile: index.d.ts
+[WARNING] GENERATE index.inputmask_.d.dart, Inputmask_, index.d.ts
+index.inputmask_.d.dart
+[WARNING] typings:typesgenerator on lib/d/inputmask.dart:
+DONE inputmask
+
+
+[INFO] Done compiling
+[INFO] Listing structures in file lib.es5.d.ts namespace ""
+[WARNING] Skipping mapped struct "Function"
+[WARNING] Skipping mapped struct "String"
+[WARNING] Skipping mapped struct "Date"
+[WARNING] Skipping mapped struct "ArrayBuffer"
+[WARNING] Skipping mapped struct "DataView"
+[WARNING] Skipping mapped struct "Int8Array"
+[WARNING] Skipping mapped struct "Uint8Array"
+[WARNING] Skipping mapped struct "Uint8ClampedArray"
+[WARNING] Skipping mapped struct "Int16Array"
+[WARNING] Skipping mapped struct "Uint16Array"
+[WARNING] Skipping mapped struct "Int32Array"
+[WARNING] Skipping mapped struct "Uint32Array"
+[WARNING] Skipping mapped struct "Float32Array"
+[WARNING] Skipping mapped struct "Float64Array"
+[INFO] Listing structures in file lib.es2015.core.d.ts namespace ""
+[INFO] Listing structures in file lib.es2015.collection.d.ts namespace ""
+[INFO] Listing structures in file lib.es2015.iterable.d.ts namespace ""
+[INFO] Listing structures in file lib.es2015.generator.d.ts namespace ""
+[INFO] Listing structures in file lib.es2015.promise.d.ts namespace ""
+[INFO] Listing structures in file lib.es2015.proxy.d.ts namespace ""
+[INFO] Listing structures in file lib.es2015.reflect.d.ts namespace ""
+[INFO] Listing structures in file lib.es2015.symbol.d.ts namespace ""
+[INFO] Listing structures in file lib.es2015.symbol.wellknown.d.ts namespace ""
+[INFO] Listing structures in file lib.es2016.array.include.d.ts namespace ""
+[INFO] Listing structures in file lib.es2017.object.d.ts namespace ""
+[INFO] Listing structures in file lib.es2017.sharedmemory.d.ts namespace ""
+[INFO] Listing structures in file lib.es2017.string.d.ts namespace ""
+[INFO] Listing structures in file lib.es2017.intl.d.ts namespace ""
+[INFO] Listing structures in file lib.es2017.typedarrays.d.ts namespace ""
+[INFO] Listing structures in file lib.es2018.asynciterable.d.ts namespace ""
+[INFO] Listing structures in file lib.es2018.asyncgenerator.d.ts namespace ""
+[INFO] Listing structures in file lib.es2018.promise.d.ts namespace ""
+[INFO] Listing structures in file lib.es2018.regexp.d.ts namespace ""
+[INFO] Listing structures in file lib.es2018.intl.d.ts namespace ""
+[INFO] Listing structures in file lib.es2019.array.d.ts namespace ""
+[INFO] Listing structures in file lib.es2019.object.d.ts namespace ""
+[INFO] Listing structures in file lib.es2019.string.d.ts namespace ""
+[INFO] Listing structures in file lib.es2019.symbol.d.ts namespace ""
+[INFO] Listing structures in file lib.es2019.intl.d.ts namespace ""
+[INFO] Listing structures in file lib.es2020.bigint.d.ts namespace ""
+[INFO] Listing structures in file lib.es2020.date.d.ts namespace ""
+[INFO] Listing structures in file lib.es2020.number.d.ts namespace ""
+[INFO] Listing structures in file lib.es2020.promise.d.ts namespace ""
+[INFO] Listing structures in file lib.es2020.sharedmemory.d.ts namespace ""
+[INFO] Listing structures in file lib.es2020.string.d.ts namespace ""
+[INFO] Listing structures in file lib.es2020.symbol.wellknown.d.ts namespace ""
+[INFO] Listing structures in file lib.es2020.intl.d.ts namespace ""
+[INFO] Listing structures in file lib.es2021.intl.d.ts namespace ""
+[INFO] Listing structures in file lib.es2021.promise.d.ts namespace ""
+[INFO] Listing structures in file lib.es2021.string.d.ts namespace ""
+[INFO] Listing structures in file lib.es2021.weakref.d.ts namespace ""
+[INFO] Listing structures in file lib.es2022.array.d.ts namespace ""
+[INFO] Listing structures in file lib.es2022.error.d.ts namespace ""
+[INFO] Listing structures in file lib.es2022.intl.d.ts namespace ""
+[INFO] Listing structures in file lib.es2022.object.d.ts namespace ""
+[INFO] Listing structures in file lib.es2022.regexp.d.ts namespace ""
+[INFO] Listing structures in file lib.es2022.sharedmemory.d.ts namespace ""
+[INFO] Listing structures in file lib.es2023.array.d.ts namespace ""
+[INFO] Listing structures in file lib.dom.d.ts namespace ""
+[INFO] Listing structures in file lib.webworker.importscripts.d.ts namespace ""
+[INFO] Listing structures in file lib.scripthost.d.ts namespace ""
+[INFO] Parsing structures: lib.es5.d.ts
+[INFO] Parsing structures: lib.es5.d.ts
+[INFO] Parsing structures: lib.es2015.core.d.ts
+[INFO] Parsing structures: lib.es2015.collection.d.ts
+[INFO] Parsing structures: lib.es2015.iterable.d.ts
+[INFO] Parsing structures: lib.es2015.generator.d.ts
+[INFO] Parsing structures: lib.es2015.promise.d.ts
+[INFO] Parsing structures: lib.es2015.proxy.d.ts
+[INFO] Parsing structures: lib.es2015.reflect.d.ts
+[INFO] Parsing structures: lib.es2015.reflect.d.ts
+[INFO] Parsing structures: lib.es2015.symbol.d.ts
+[INFO] Parsing structures: lib.es2015.symbol.wellknown.d.ts
+[INFO] Parsing structures: lib.es2016.array.include.d.ts
+[INFO] Parsing structures: lib.es2017.object.d.ts
+[INFO] Parsing structures: lib.es2017.sharedmemory.d.ts
+[INFO] Parsing structures: lib.es2017.string.d.ts
+[INFO] Parsing structures: lib.es2017.intl.d.ts
+[INFO] Parsing structures: lib.es2017.typedarrays.d.ts
+[INFO] Parsing structures: lib.es2018.asynciterable.d.ts
+[INFO] Parsing structures: lib.es2018.asyncgenerator.d.ts
+[INFO] Parsing structures: lib.es2018.promise.d.ts
+[INFO] Parsing structures: lib.es2018.regexp.d.ts
+[INFO] Parsing structures: lib.es2018.intl.d.ts
+[INFO] Parsing structures: lib.es2019.array.d.ts
+[INFO] Parsing structures: lib.es2019.object.d.ts
+[INFO] Parsing structures: lib.es2019.string.d.ts
+[INFO] Parsing structures: lib.es2019.symbol.d.ts
+[INFO] Parsing structures: lib.es2019.intl.d.ts
+[INFO] Parsing structures: lib.es2020.bigint.d.ts
+[INFO] Parsing structures: lib.es2020.date.d.ts
+[INFO] Parsing structures: lib.es2020.number.d.ts
+[INFO] Parsing structures: lib.es2020.promise.d.ts
+[INFO] Parsing structures: lib.es2020.sharedmemory.d.ts
+[INFO] Parsing structures: lib.es2020.string.d.ts
+[INFO] Parsing structures: lib.es2020.symbol.wellknown.d.ts
+[INFO] Parsing structures: lib.es2020.intl.d.ts
+[INFO] Parsing structures: lib.es2021.intl.d.ts
+[INFO] Parsing structures: lib.es2021.promise.d.ts
+[INFO] Parsing structures: lib.es2021.string.d.ts
+[INFO] Parsing structures: lib.es2021.weakref.d.ts
+[INFO] Parsing structures: lib.es2022.array.d.ts
+[INFO] Parsing structures: lib.es2022.error.d.ts
+[INFO] Parsing structures: lib.es2022.intl.d.ts
+[INFO] Parsing structures: lib.es2022.object.d.ts
+[INFO] Parsing structures: lib.es2022.regexp.d.ts
+[INFO] Parsing structures: lib.es2022.sharedmemory.d.ts
+[INFO] Parsing structures: lib.es2023.array.d.ts
+[INFO] Parsing structures: lib.dom.d.ts
+[INFO] Parsing structures: lib.dom.d.ts
+[INFO] Parsing structures: lib.dom.d.ts
+[INFO] Parsing structures: lib.webworker.importscripts.d.ts
+[INFO] Parsing structures: lib.scripthost.d.ts
+[INFO] Configure: lib.es5.d.ts
+[WARNING] Skipping list value of operator. Holder InteropOperator(operator: InteropOperatorType.readonly). LineNumber: 108, operator: InteropOperatorType.keyOf
+[WARNING] Skipping list value of operator. Holder InteropStaticType.list. LineNumber: 98, operator: InteropOperatorType.keyOf
+[INFO] Skipping declared var Function because type isnt class: InteropStaticType.function
+[INFO] Skipping declared var String because type isnt class: InteropStaticType.string
+[INFO] Skipping declared var Date because type isnt class: InteropStaticType.date
+[INFO] Skipping declared var ArrayBuffer because type isnt class: InteropStaticType.byteBuffer
+[INFO] Skipping declared var DataView because type isnt class: InteropStaticType.byteData
+[INFO] Skipping declared var Int8Array because type isnt class: InteropStaticType.int8List
+[INFO] Skipping declared var Uint8Array because type isnt class: InteropStaticType.uInt8List
+[INFO] Skipping declared var Uint8ClampedArray because type isnt class: InteropStaticType.uInt8ClampedList
+[INFO] Skipping declared var Int16Array because type isnt class: InteropStaticType.int16List
+[INFO] Skipping declared var Uint16Array because type isnt class: InteropStaticType.uInt16List
+[INFO] Skipping declared var Int32Array because type isnt class: InteropStaticType.int32List
+[INFO] Skipping declared var Uint32Array because type isnt class: InteropStaticType.uInt32List
+[INFO] Skipping declared var Float32Array because type isnt class: InteropStaticType.float32List
+[INFO] Skipping declared var Float64Array because type isnt class: InteropStaticType.float64List
+[INFO] Configure: lib.es5.d.ts
+[INFO] Configure: lib.es2015.core.d.ts
+[INFO] Configure: lib.es2015.collection.d.ts
+[INFO] Configure: lib.es2015.iterable.d.ts
+[INFO] Configure: lib.es2015.generator.d.ts
+[INFO] Configure: lib.es2015.promise.d.ts
+[INFO] Configure: lib.es2015.proxy.d.ts
+[INFO] Configure: lib.es2015.reflect.d.ts
+[INFO] Configure: lib.es2015.reflect.d.ts
+[INFO] Configure: lib.es2015.symbol.d.ts
+[INFO] Configure: lib.es2015.symbol.wellknown.d.ts
+[INFO] Configure: lib.es2016.array.include.d.ts
+[INFO] Configure: lib.es2017.object.d.ts
+[INFO] Configure: lib.es2017.sharedmemory.d.ts
+[INFO] Configure: lib.es2017.string.d.ts
+[INFO] Configure: lib.es2017.intl.d.ts
+[INFO] Configure: lib.es2017.typedarrays.d.ts
+[INFO] Configure: lib.es2018.asynciterable.d.ts
+[INFO] Configure: lib.es2018.asyncgenerator.d.ts
+[INFO] Configure: lib.es2018.promise.d.ts
+[INFO] Configure: lib.es2018.regexp.d.ts
+[INFO] Configure: lib.es2018.intl.d.ts
+[INFO] Configure: lib.es2019.array.d.ts
+[INFO] Configure: lib.es2019.object.d.ts
+[INFO] Configure: lib.es2019.string.d.ts
+[INFO] Configure: lib.es2019.symbol.d.ts
+[INFO] Configure: lib.es2019.intl.d.ts
+[INFO] Configure: lib.es2020.bigint.d.ts
+[INFO] Configure: lib.es2020.date.d.ts
+[INFO] Configure: lib.es2020.number.d.ts
+[INFO] Configure: lib.es2020.promise.d.ts
+[INFO] Configure: lib.es2020.sharedmemory.d.ts
+[INFO] Configure: lib.es2020.string.d.ts
+[INFO] Configure: lib.es2020.symbol.wellknown.d.ts
+[INFO] Configure: lib.es2020.intl.d.ts
+[INFO] Configure: lib.es2021.intl.d.ts
+[INFO] Configure: lib.es2021.promise.d.ts
+[INFO] Configure: lib.es2021.string.d.ts
+[INFO] Configure: lib.es2021.weakref.d.ts
+[INFO] Configure: lib.es2022.array.d.ts
+[INFO] Configure: lib.es2022.error.d.ts
+[INFO] Configure: lib.es2022.intl.d.ts
+[INFO] Configure: lib.es2022.object.d.ts
+[INFO] Configure: lib.es2022.regexp.d.ts
+[INFO] Configure: lib.es2022.sharedmemory.d.ts
+[INFO] Configure: lib.es2023.array.d.ts
+[INFO] Configure: lib.dom.d.ts
+[INFO] Skipping declared var NodeFilter because type isnt class: InteropTypedef#45309293(name: NodeFilter)
+[INFO] Skipping declared var DOMStringMap because type isnt class: InteropStaticType.obj
+[INFO] Configure: lib.dom.d.ts
+[INFO] Configure: lib.dom.d.ts
+[INFO] Configure: lib.webworker.importscripts.d.ts
+[INFO] Configure: lib.scripthost.d.ts
+[INFO] Cache: lib.es5.d.ts
+[INFO] Cache: lib.es5.d.ts
+[INFO] Cache: lib.es2015.core.d.ts
+[INFO] Cache: lib.es2015.collection.d.ts
+[INFO] Cache: lib.es2015.iterable.d.ts
+[INFO] Cache: lib.es2015.generator.d.ts
+[INFO] Cache: lib.es2015.promise.d.ts
+[INFO] Cache: lib.es2015.proxy.d.ts
+[INFO] Cache: lib.es2015.reflect.d.ts
+[INFO] Cache: lib.es2015.reflect.d.ts
+[INFO] Cache: lib.es2015.symbol.d.ts
+[INFO] Cache: lib.es2015.symbol.wellknown.d.ts
+[INFO] Cache: lib.es2016.array.include.d.ts
+[INFO] Cache: lib.es2017.object.d.ts
+[INFO] Cache: lib.es2017.sharedmemory.d.ts
+[INFO] Cache: lib.es2017.string.d.ts
+[INFO] Cache: lib.es2017.intl.d.ts
+[INFO] Cache: lib.es2017.typedarrays.d.ts
+[INFO] Cache: lib.es2018.asynciterable.d.ts
+[INFO] Cache: lib.es2018.asyncgenerator.d.ts
+[INFO] Cache: lib.es2018.promise.d.ts
+[INFO] Cache: lib.es2018.regexp.d.ts
+[INFO] Cache: lib.es2018.intl.d.ts
+[INFO] Cache: lib.es2019.array.d.ts
+[INFO] Cache: lib.es2019.object.d.ts
+[INFO] Cache: lib.es2019.string.d.ts
+[INFO] Cache: lib.es2019.symbol.d.ts
+[INFO] Cache: lib.es2019.intl.d.ts
+[INFO] Cache: lib.es2020.bigint.d.ts
+[INFO] Cache: lib.es2020.date.d.ts
+[INFO] Cache: lib.es2020.number.d.ts
+[INFO] Cache: lib.es2020.promise.d.ts
+[INFO] Cache: lib.es2020.sharedmemory.d.ts
+[INFO] Cache: lib.es2020.string.d.ts
+[INFO] Cache: lib.es2020.symbol.wellknown.d.ts
+[INFO] Cache: lib.es2020.intl.d.ts
+[INFO] Cache: lib.es2021.intl.d.ts
+[INFO] Cache: lib.es2021.promise.d.ts
+[INFO] Cache: lib.es2021.string.d.ts
+[INFO] Cache: lib.es2021.weakref.d.ts
+[INFO] Cache: lib.es2022.array.d.ts
+[INFO] Cache: lib.es2022.error.d.ts
+[INFO] Cache: lib.es2022.intl.d.ts
+[INFO] Cache: lib.es2022.object.d.ts
+[INFO] Cache: lib.es2022.regexp.d.ts
+[INFO] Cache: lib.es2022.sharedmemory.d.ts
+[INFO] Cache: lib.es2023.array.d.ts
+[INFO] Cache: lib.dom.d.ts
+[INFO] Cache: lib.dom.d.ts
+[INFO] Cache: lib.dom.d.ts
+[INFO] Cache: lib.webworker.importscripts.d.ts
+[INFO] Cache: lib.scripthost.d.ts
+[INFO] Listing structures in file 0lib.deno.d.ts namespace ""
+[INFO] Parsing structures: 0lib.deno.d.ts
+[INFO] Parsing structures: 0lib.deno.d.ts
+[INFO] Parsing structures: 0lib.deno.d.ts
+[INFO] Parsing structures: 0lib.deno.d.ts
+[INFO] Configure: 0lib.deno.d.ts
+[INFO] Configure: 0lib.deno.d.ts
+[INFO] Configure: 0lib.deno.d.ts
+[INFO] Configure: 0lib.deno.d.ts
+[INFO] Cache: 0lib.deno.d.ts
+[INFO] Cache: 0lib.deno.d.ts
+[INFO] Cache: 0lib.deno.d.ts
+[INFO] Cache: 0lib.deno.d.ts
+[INFO] Transpile: 0lib.deno.d.ts
+[WARNING] GENERATE 0lib.deno.d.dart, , 0lib.deno.d.ts
+0lib.deno.d.dart
+[INFO] Transpile: 0lib.deno.d.ts
+[WARNING] GENERATE 0lib.deno.deno.d.dart, Deno, 0lib.deno.d.ts
+0lib.deno.deno.d.dart
+[INFO] Transpile: 0lib.deno.d.ts
+[WARNING] GENERATE 0lib.deno.deno.errors.d.dart, Deno.errors, 0lib.deno.d.ts
+0lib.deno.deno.errors.d.dart
+[INFO] Transpile: 0lib.deno.d.ts
+[WARNING] GENERATE 0lib.deno.webassembly.d.dart, WebAssembly, 0lib.deno.d.ts
+0lib.deno.webassembly.d.dart
+
+Unknown node type out/package/release/go.d.ts 13 kind: 267
+
+[INFO] Done compiling
+[INFO] Listing structures in file lib.es5.d.ts namespace ""
+[WARNING] Skipping mapped struct "Function"
+[WARNING] Skipping mapped struct "String"
+[WARNING] Skipping mapped struct "Date"
+[WARNING] Skipping mapped struct "ArrayBuffer"
+[WARNING] Skipping mapped struct "DataView"
+[WARNING] Skipping mapped struct "Int8Array"
+[WARNING] Skipping mapped struct "Uint8Array"
+[WARNING] Skipping mapped struct "Uint8ClampedArray"
+[WARNING] Skipping mapped struct "Int16Array"
+[WARNING] Skipping mapped struct "Uint16Array"
+[WARNING] Skipping mapped struct "Int32Array"
+[WARNING] Skipping mapped struct "Uint32Array"
+[WARNING] Skipping mapped struct "Float32Array"
+[WARNING] Skipping mapped struct "Float64Array"
+[INFO] Listing structures in file lib.es2015.core.d.ts namespace ""
+[INFO] Listing structures in file lib.es2015.collection.d.ts namespace ""
+[INFO] Listing structures in file lib.es2015.iterable.d.ts namespace ""
+[INFO] Listing structures in file lib.es2015.generator.d.ts namespace ""
+[INFO] Listing structures in file lib.es2015.promise.d.ts namespace ""
+[INFO] Listing structures in file lib.es2015.proxy.d.ts namespace ""
+[INFO] Listing structures in file lib.es2015.reflect.d.ts namespace ""
+[INFO] Listing structures in file lib.es2015.symbol.d.ts namespace ""
+[INFO] Listing structures in file lib.es2015.symbol.wellknown.d.ts namespace ""
+[INFO] Listing structures in file lib.es2016.array.include.d.ts namespace ""
+[INFO] Listing structures in file lib.es2017.object.d.ts namespace ""
+[INFO] Listing structures in file lib.es2017.sharedmemory.d.ts namespace ""
+[INFO] Listing structures in file lib.es2017.string.d.ts namespace ""
+[INFO] Listing structures in file lib.es2017.intl.d.ts namespace ""
+[INFO] Listing structures in file lib.es2017.typedarrays.d.ts namespace ""
+[INFO] Listing structures in file lib.es2018.asynciterable.d.ts namespace ""
+[INFO] Listing structures in file lib.es2018.asyncgenerator.d.ts namespace ""
+[INFO] Listing structures in file lib.es2018.promise.d.ts namespace ""
+[INFO] Listing structures in file lib.es2018.regexp.d.ts namespace ""
+[INFO] Listing structures in file lib.es2018.intl.d.ts namespace ""
+[INFO] Listing structures in file lib.es2019.array.d.ts namespace ""
+[INFO] Listing structures in file lib.es2019.object.d.ts namespace ""
+[INFO] Listing structures in file lib.es2019.string.d.ts namespace ""
+[INFO] Listing structures in file lib.es2019.symbol.d.ts namespace ""
+[INFO] Listing structures in file lib.es2019.intl.d.ts namespace ""
+[INFO] Listing structures in file lib.es2020.bigint.d.ts namespace ""
+[INFO] Listing structures in file lib.es2020.date.d.ts namespace ""
+[INFO] Listing structures in file lib.es2020.number.d.ts namespace ""
+[INFO] Listing structures in file lib.es2020.promise.d.ts namespace ""
+[INFO] Listing structures in file lib.es2020.sharedmemory.d.ts namespace ""
+[INFO] Listing structures in file lib.es2020.string.d.ts namespace ""
+[INFO] Listing structures in file lib.es2020.symbol.wellknown.d.ts namespace ""
+[INFO] Listing structures in file lib.es2020.intl.d.ts namespace ""
+[INFO] Listing structures in file lib.es2021.intl.d.ts namespace ""
+[INFO] Listing structures in file lib.es2021.promise.d.ts namespace ""
+[INFO] Listing structures in file lib.es2021.string.d.ts namespace ""
+[INFO] Listing structures in file lib.es2021.weakref.d.ts namespace ""
+[INFO] Listing structures in file lib.es2022.array.d.ts namespace ""
+[INFO] Listing structures in file lib.es2022.error.d.ts namespace ""
+[INFO] Listing structures in file lib.es2022.intl.d.ts namespace ""
+[INFO] Listing structures in file lib.es2022.object.d.ts namespace ""
+[INFO] Listing structures in file lib.es2022.regexp.d.ts namespace ""
+[INFO] Listing structures in file lib.es2022.sharedmemory.d.ts namespace ""
+[INFO] Listing structures in file lib.es2023.array.d.ts namespace ""
+[INFO] Listing structures in file lib.dom.d.ts namespace ""
+[INFO] Listing structures in file lib.webworker.importscripts.d.ts namespace ""
+[INFO] Listing structures in file lib.scripthost.d.ts namespace ""
+[INFO] Parsing structures: lib.es5.d.ts
+[INFO] Parsing structures: lib.es5.d.ts
+[INFO] Parsing structures: lib.es2015.core.d.ts
+[INFO] Parsing structures: lib.es2015.collection.d.ts
+[INFO] Parsing structures: lib.es2015.iterable.d.ts
+[INFO] Parsing structures: lib.es2015.generator.d.ts
+[INFO] Parsing structures: lib.es2015.promise.d.ts
+[INFO] Parsing structures: lib.es2015.proxy.d.ts
+[INFO] Parsing structures: lib.es2015.reflect.d.ts
+[INFO] Parsing structures: lib.es2015.reflect.d.ts
+[INFO] Parsing structures: lib.es2015.symbol.d.ts
+[INFO] Parsing structures: lib.es2015.symbol.wellknown.d.ts
+[INFO] Parsing structures: lib.es2016.array.include.d.ts
+[INFO] Parsing structures: lib.es2017.object.d.ts
+[INFO] Parsing structures: lib.es2017.sharedmemory.d.ts
+[INFO] Parsing structures: lib.es2017.string.d.ts
+[INFO] Parsing structures: lib.es2017.intl.d.ts
+[INFO] Parsing structures: lib.es2017.typedarrays.d.ts
+[INFO] Parsing structures: lib.es2018.asynciterable.d.ts
+[INFO] Parsing structures: lib.es2018.asyncgenerator.d.ts
+[INFO] Parsing structures: lib.es2018.promise.d.ts
+[INFO] Parsing structures: lib.es2018.regexp.d.ts
+[INFO] Parsing structures: lib.es2018.intl.d.ts
+[INFO] Parsing structures: lib.es2019.array.d.ts
+[INFO] Parsing structures: lib.es2019.object.d.ts
+[INFO] Parsing structures: lib.es2019.string.d.ts
+[INFO] Parsing structures: lib.es2019.symbol.d.ts
+[INFO] Parsing structures: lib.es2019.intl.d.ts
+[INFO] Parsing structures: lib.es2020.bigint.d.ts
+[INFO] Parsing structures: lib.es2020.date.d.ts
+[INFO] Parsing structures: lib.es2020.number.d.ts
+[INFO] Parsing structures: lib.es2020.promise.d.ts
+[INFO] Parsing structures: lib.es2020.sharedmemory.d.ts
+[INFO] Parsing structures: lib.es2020.string.d.ts
+[INFO] Parsing structures: lib.es2020.symbol.wellknown.d.ts
+[INFO] Parsing structures: lib.es2020.intl.d.ts
+[INFO] Parsing structures: lib.es2021.intl.d.ts
+[INFO] Parsing structures: lib.es2021.promise.d.ts
+[INFO] Parsing structures: lib.es2021.string.d.ts
+[INFO] Parsing structures: lib.es2021.weakref.d.ts
+[INFO] Parsing structures: lib.es2022.array.d.ts
+[INFO] Parsing structures: lib.es2022.error.d.ts
+[INFO] Parsing structures: lib.es2022.intl.d.ts
+[INFO] Parsing structures: lib.es2022.object.d.ts
+[INFO] Parsing structures: lib.es2022.regexp.d.ts
+[INFO] Parsing structures: lib.es2022.sharedmemory.d.ts
+[INFO] Parsing structures: lib.es2023.array.d.ts
+[INFO] Parsing structures: lib.dom.d.ts
+[INFO] Parsing structures: lib.dom.d.ts
+[INFO] Parsing structures: lib.dom.d.ts
+[INFO] Parsing structures: lib.webworker.importscripts.d.ts
+[INFO] Parsing structures: lib.scripthost.d.ts
+[INFO] Configure: lib.es5.d.ts
+[WARNING] Skipping list value of operator. Holder InteropOperator(operator: InteropOperatorType.readonly). LineNumber: 108, operator: InteropOperatorType.keyOf
+[WARNING] Skipping list value of operator. Holder InteropStaticType.list. LineNumber: 98, operator: InteropOperatorType.keyOf
+[INFO] Skipping declared var Function because type isnt class: InteropStaticType.function
+[INFO] Skipping declared var String because type isnt class: InteropStaticType.string
+[INFO] Skipping declared var Date because type isnt class: InteropStaticType.date
+[INFO] Skipping declared var ArrayBuffer because type isnt class: InteropStaticType.byteBuffer
+[INFO] Skipping declared var DataView because type isnt class: InteropStaticType.byteData
+[INFO] Skipping declared var Int8Array because type isnt class: InteropStaticType.int8List
+[INFO] Skipping declared var Uint8Array because type isnt class: InteropStaticType.uInt8List
+[INFO] Skipping declared var Uint8ClampedArray because type isnt class: InteropStaticType.uInt8ClampedList
+[INFO] Skipping declared var Int16Array because type isnt class: InteropStaticType.int16List
+[INFO] Skipping declared var Uint16Array because type isnt class: InteropStaticType.uInt16List
+[INFO] Skipping declared var Int32Array because type isnt class: InteropStaticType.int32List
+[INFO] Skipping declared var Uint32Array because type isnt class: InteropStaticType.uInt32List
+[INFO] Skipping declared var Float32Array because type isnt class: InteropStaticType.float32List
+[INFO] Skipping declared var Float64Array because type isnt class: InteropStaticType.float64List
+[INFO] Configure: lib.es5.d.ts
+[INFO] Configure: lib.es2015.core.d.ts
+[INFO] Configure: lib.es2015.collection.d.ts
+[INFO] Configure: lib.es2015.iterable.d.ts
+[INFO] Configure: lib.es2015.generator.d.ts
+[INFO] Configure: lib.es2015.promise.d.ts
+[INFO] Configure: lib.es2015.proxy.d.ts
+[INFO] Configure: lib.es2015.reflect.d.ts
+[INFO] Configure: lib.es2015.reflect.d.ts
+[INFO] Configure: lib.es2015.symbol.d.ts
+[INFO] Configure: lib.es2015.symbol.wellknown.d.ts
+[INFO] Configure: lib.es2016.array.include.d.ts
+[INFO] Configure: lib.es2017.object.d.ts
+[INFO] Configure: lib.es2017.sharedmemory.d.ts
+[INFO] Configure: lib.es2017.string.d.ts
+[INFO] Configure: lib.es2017.intl.d.ts
+[INFO] Configure: lib.es2017.typedarrays.d.ts
+[INFO] Configure: lib.es2018.asynciterable.d.ts
+[INFO] Configure: lib.es2018.asyncgenerator.d.ts
+[INFO] Configure: lib.es2018.promise.d.ts
+[INFO] Configure: lib.es2018.regexp.d.ts
+[INFO] Configure: lib.es2018.intl.d.ts
+[INFO] Configure: lib.es2019.array.d.ts
+[INFO] Configure: lib.es2019.object.d.ts
+[INFO] Configure: lib.es2019.string.d.ts
+[INFO] Configure: lib.es2019.symbol.d.ts
+[INFO] Configure: lib.es2019.intl.d.ts
+[INFO] Configure: lib.es2020.bigint.d.ts
+[INFO] Configure: lib.es2020.date.d.ts
+[INFO] Configure: lib.es2020.number.d.ts
+[INFO] Configure: lib.es2020.promise.d.ts
+[INFO] Configure: lib.es2020.sharedmemory.d.ts
+[INFO] Configure: lib.es2020.string.d.ts
+[INFO] Configure: lib.es2020.symbol.wellknown.d.ts
+[INFO] Configure: lib.es2020.intl.d.ts
+[INFO] Configure: lib.es2021.intl.d.ts
+[INFO] Configure: lib.es2021.promise.d.ts
+[INFO] Configure: lib.es2021.string.d.ts
+[INFO] Configure: lib.es2021.weakref.d.ts
+[INFO] Configure: lib.es2022.array.d.ts
+[INFO] Configure: lib.es2022.error.d.ts
+[INFO] Configure: lib.es2022.intl.d.ts
+[INFO] Configure: lib.es2022.object.d.ts
+[INFO] Configure: lib.es2022.regexp.d.ts
+[INFO] Configure: lib.es2022.sharedmemory.d.ts
+[INFO] Configure: lib.es2023.array.d.ts
+[INFO] Configure: lib.dom.d.ts
+[INFO] Skipping declared var NodeFilter because type isnt class: InteropTypedef#111014960(name: NodeFilter)
+[INFO] Skipping declared var DOMStringMap because type isnt class: InteropStaticType.obj
+[INFO] Configure: lib.dom.d.ts
+[INFO] Configure: lib.dom.d.ts
+[INFO] Configure: lib.webworker.importscripts.d.ts
+[INFO] Configure: lib.scripthost.d.ts
+[INFO] Cache: lib.es5.d.ts
+[INFO] Cache: lib.es5.d.ts
+[INFO] Cache: lib.es2015.core.d.ts
+[INFO] Cache: lib.es2015.collection.d.ts
+[INFO] Cache: lib.es2015.iterable.d.ts
+[INFO] Cache: lib.es2015.generator.d.ts
+[INFO] Cache: lib.es2015.promise.d.ts
+[INFO] Cache: lib.es2015.proxy.d.ts
+[INFO] Cache: lib.es2015.reflect.d.ts
+[INFO] Cache: lib.es2015.reflect.d.ts
+[INFO] Cache: lib.es2015.symbol.d.ts
+[INFO] Cache: lib.es2015.symbol.wellknown.d.ts
+[INFO] Cache: lib.es2016.array.include.d.ts
+[INFO] Cache: lib.es2017.object.d.ts
+[INFO] Cache: lib.es2017.sharedmemory.d.ts
+[INFO] Cache: lib.es2017.string.d.ts
+[INFO] Cache: lib.es2017.intl.d.ts
+[INFO] Cache: lib.es2017.typedarrays.d.ts
+[INFO] Cache: lib.es2018.asynciterable.d.ts
+[INFO] Cache: lib.es2018.asyncgenerator.d.ts
+[INFO] Cache: lib.es2018.promise.d.ts
+[INFO] Cache: lib.es2018.regexp.d.ts
+[INFO] Cache: lib.es2018.intl.d.ts
+[INFO] Cache: lib.es2019.array.d.ts
+[INFO] Cache: lib.es2019.object.d.ts
+[INFO] Cache: lib.es2019.string.d.ts
+[INFO] Cache: lib.es2019.symbol.d.ts
+[INFO] Cache: lib.es2019.intl.d.ts
+[INFO] Cache: lib.es2020.bigint.d.ts
+[INFO] Cache: lib.es2020.date.d.ts
+[INFO] Cache: lib.es2020.number.d.ts
+[INFO] Cache: lib.es2020.promise.d.ts
+[INFO] Cache: lib.es2020.sharedmemory.d.ts
+[INFO] Cache: lib.es2020.string.d.ts
+[INFO] Cache: lib.es2020.symbol.wellknown.d.ts
+[INFO] Cache: lib.es2020.intl.d.ts
+[INFO] Cache: lib.es2021.intl.d.ts
+[INFO] Cache: lib.es2021.promise.d.ts
+[INFO] Cache: lib.es2021.string.d.ts
+[INFO] Cache: lib.es2021.weakref.d.ts
+[INFO] Cache: lib.es2022.array.d.ts
+[INFO] Cache: lib.es2022.error.d.ts
+[INFO] Cache: lib.es2022.intl.d.ts
+[INFO] Cache: lib.es2022.object.d.ts
+[INFO] Cache: lib.es2022.regexp.d.ts
+[INFO] Cache: lib.es2022.sharedmemory.d.ts
+[INFO] Cache: lib.es2023.array.d.ts
+[INFO] Cache: lib.dom.d.ts
+[INFO] Cache: lib.dom.d.ts
+[INFO] Cache: lib.dom.d.ts
+[INFO] Cache: lib.webworker.importscripts.d.ts
+[INFO] Cache: lib.scripthost.d.ts
+[INFO] Listing structures in file go.d.ts namespace "go"
+[INFO] Parsing structures: go.d.ts
+[INFO] Configure: go.d.ts
+[INFO] Cache: go.d.ts
+[INFO] Transpile: go.d.ts
+[WARNING] GENERATE go.go.d.dart, go, go.d.ts
+go.go.d.dart
+[WARNING] typings:typesgenerator on lib/d/gojs.dart:
+DONE gojs
+[INFO] Running build completed, took 16.5s
+
+[INFO] Caching finalized dependency graph...
+[INFO] Caching finalized dependency graph completed, took 122ms
+
+[INFO] Succeeded after 16.7s with 0 outputs (2078 actions)
+

@@ -2,7 +2,7 @@
   {
     "_": -1,
     "namespace": "",
-    "from": "mainLoop /Users/jonathanrezende/Projects/testes/typings/typings/work/inputmask/out/temp/https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/master/types/inputmask/index.d.ts",
+    "from": "mainLoop /Users/dazzlemon/github/typings/typings/work/inputmask/out/temp/https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/master/types/inputmask/index.d.ts",
     "items": {
       "structs": [],
       "typedefs": [],
@@ -5310,7 +5310,7 @@
       "funcs": [],
       "vars": [
         {
-          "_": 761,
+          "_": 852,
           "name": "Inputmask",
           "isReadonly": true,
           "isStatic": false,
@@ -5320,7 +5320,7 @@
             "ref": "Inputmask.Static",
             "targs": [],
             "isNullable": false,
-            "_": 761,
+            "_": 852,
             "source": " Inputmask.Static"
           },
           "source": " Inputmask: Inputmask.Static"

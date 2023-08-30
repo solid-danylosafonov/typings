@@ -5,19 +5,19 @@ FieldExternal: DeclaredVar
 */
 
 @_i1.JS('env')
-external _i2.Object target2049;
+external _i2.Object target2064;
 /*
 FieldExternal: DeclaredVar
 */
 @_i1.JS('permissions')
-external _i2.Object target2050;
+external _i2.Object target2065;
 /*
 FieldExternal: DeclaredVar
 */
 @_i1.JS('build')
-external _i2.Object target2051;
+external _i2.Object target2066;
 /*
 FieldExternal: DeclaredVar
 */
 @_i1.JS('version')
-external _i2.Object target2052;
+external _i2.Object target2067;
